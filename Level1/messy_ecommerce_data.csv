@@ -1,0 +1,676 @@
+Customer_ID,Customer_Name,Gender,Country,City,Category,Product,Quantity,Unit_Price,Order_Date,Payment_Method,Rating,Discount,Total_Amount
+C1079,Emma Malik,Female, Pakistan ,Hyderabad,Books,Python Book,2,$620.87,2025-11-01,Credit Card,1,0.14,1067.9
+C1290, fatima shah ,Male,India,Delhi,Clothing,T-Shirt,,,2025-11-30,PayPal,2,0.3,354.96
+C1075,John Lohano,Female,UK,London,Books,ML Book,2,581.54,2025-05-09,Bank Transfer,2,0.26,860.68
+C1611,Emma Brown,, Pakistan ,Jamshoro,Home & Kitchen,Cookware Set,4,$1315.82,2025-08-07,Credit Card,1,0.28,3789.56
+C1376,Usman Lohano,Female,India,Mumbai,Electronics,Mouse,-5,185.56,2024-01-08,PayPal,2,0.21,732.96
+C1319,Hamza Brown, Male ,Pakistan,Hyderabad,Books,SQL Book,4,502.6,2024-01-03,Cash,1,0.27,1467.59
+C1145,Fatima Malik,Female,UAE,Abu Dhabi,Electronics,Mouse,5,442.64,2024-11-03,Credit Card,2,0.24,1682.03
+C1529,Fatima Shah,Male,India,Pune,CLOTHING,Running Shoes,4,366.49,2024-06-27,Bank Transfer,1,0.18,1202.09
+C1314,Fatima Patel,Male,India,Ahmedabad,home & kitchen,Headphones,2,1093.48,2024-05-14,Credit Card,1,0.18,1793.31
+C1373,Usman Lohano,Male,Canada, TORONTO ,,Shoes,5,903.72,2025-06-28,Bank Transfer,1,0.03,4383.04
+C1348, ahmed lohano ,Female,Canada,Ottawa,Home & Kitchen,Blender,5,1234.94,2025-01-18,Bank Transfer,5,0.13,5371.99
+C1004,Emma Patel,Female,Pakistan,Jamshoro,Sports,Football,4,127.41,2024-10-27,Bank Transfer,3,0.17,423.0
+C1493,Fatima Jones,Female,UK, BIRMINGHAM ,Sports,Running Shoes,2,316.44,2024-11-20,Debit Card,5,0.24,480.99
+C1323,Fatima Brown,MALE,UAE,Abu Dhabi,Books,SQL Book,1,10000,2024-03-01,Credit Card,1,0.12,182.55
+C-1099,Hamza Patel,, Pakistan ,Islamabad,HOME & KITCHEN,Coffee Maker,4,$1022.48,2025-07-03,Debit Card,1,0.03,3967.22
+C1016,David Khan,Male,Pakistan,Karachi,Home & Kitchen,Blender,5,$364.63,2025-11-16,PayPal,2,0.16,1531.45
+C1426,David Khan,Female,,Ottawa,Books,Data Science Book,1,1237.23,2024-09-29,Bank Transfer,1,0.22,965.04
+C1601,Ahmed Lohano,Female,,Sharjah,Electronics,Keyboard,2,361.7,2025-08-07,Bank Transfer,1,0.16,607.66
+C1469,Zain Jones,Male,UK,Birmingham,Sports,Tennis Racket,4,917.18,2024-11-20,Debit Card,5,0.17,3045.04
+C1218,Usman Lohano,Male,USA,New York,Electronics,Headphones,3,257.84,,Cash,5,0.3,541.46
+C1209,John Ahmed,Female,USA,New York,Clothing,T-Shirt,2,$652.16,2025-07-24,Bank Transfer,5,0.12,1147.8
+C1192,Zain Wilson,Male,Pakistan,Lahore,BOOKS,Yoga Mat,,724.3,2024-12-06,Debit Card,1,0.06,1361.68
+C1320,Zain Ahmed,Male,Pakistan,Hyderabad,Electronics,Laptop,3,970.06,2025-04-12,Debit Card,3,0.14,2502.75
+C1101,David Jones,Male,UK,Manchester,Clothing,Shoes,3,1242.85,2025-12-02,cash,1,0.09,3392.98
+C1650,Ahmed Shah,Female,USA,Chicago,Electronics,Headphones,4,1454.76,2024-01-07,Credit Card,4,0.1,5237.14
+c1031, olivia shah , Female ,India,Delhi,Books,Python Book,2,1107.48,2024-12-06,PayPal,2,0.08,2037.76
+C1365,Usman Patel,Female,UK,Manchester,Electronics,Laptop,3,163.81,2025-06-17,Debit Card,3,0.17,
+C1571, ayesha shah ,Male,UK,Birmingham,books,Laptop,1,1164.29,2025-03-17,Cash,2,0.03,1129.36
+C1041,Ayesha Shah,Female,Pakistan,Hyderabad,Clothing,T-Shirt,4,$208.68,2025-04-20,Bank Transfer,5,0.18,684.47
+C1351, sara brown ,male,Canada,Toronto,Home & Kitchen,Chair,4,682.18,2025-02-18,PayPal,3,0.01,2701.43
+C1007, john jones ,Male,UAE,Abu Dhabi,Electronics,Headphones,1,$1209.52,2025-02-14,Debit Card,1,0.06,1136.95
+C1629, hamza brown ,Male,USA,New York,Home & Kitchen,Coffee Maker,2,739.54,2025-02-01,CASH,3,0.17,1227.64
+C1106,Sara Wilson,Female,Pakistan,,Electronics,Laptop,5,330.55,2025-03-05,PayPal,3,0.05,1570.11
+C1065,Fatima Wilson,Female,,New York,Clothing,Jacket,3,1057.45,2025-04-09,Cash,2,0.28,2284.09
+c1390,Ayesha Smith,Female,India,Mumbai,Electronics,Laptop,-3,924.6,2025-07-08,Cash,4,0.11,-250.0
+C1374,David Shah,Male,UAE,Sharjah,Books,ML Book,4,561.86,2024-02-14,Bank Transfer,4,0.07,2090.12
+C1488,John Patel,Male,Canada,Toronto,Books,Python Book,3,838.66,2024-03-13,Debit Card,5,0.14,2163.74
+C1211,Ahmed Jones,Female,Canada,Ottawa,Clothing,Shoes,2,216.87,2024-11-04,Cash,4,0.04,416.39
+ C1600 ,John Jones,Male,UAE,Dubai,Books,Python Book,1,1290.78,2024-03-26,Unknown,5,0.09,-500.0
+C1411,David Ahmed,Female,USA, BOSTON ,Clothing,Jacket,1,0,2025-07-01,Cash,2,0.29,168.06
+C1263,Ahmed Smith,Male,Canada,Toronto,Clothing,T-Shirt,2,$679.85,2024-11-17, Credit Card ,1,0.16,1142.15
+C1227,Olivia Brown,Male,UAE,Dubai,Home & Kitchen,Blender,2,465.02,2024-07-06,Debit Card,2,0.15,790.53
+C1528, david wilson ,Female,India,Mumbai,Books,Python Book,1,20.76,2024-04-01,Bank Transfer,3,0.12,18.27
+C1049,Olivia Jones,Male,USA,Chicago,Electronics,Laptop,1,1424.92,2024-07-23,Cash,,0.05,1353.67
+C1119,Ali Ahmed,Male,USA,New York,Sports,Cricket Bat,1,379.14,2025-03-24,PayPal,5,0.16,318.48
+C1455, hamza khan ,Female,UK,London,Clothing,Jeans,1,273.85,2025-03-25,Bank Transfer,4,0.21,216.34
+C1397,Fatima Brown,Female,Canada,Ottawa,Electronics,Keyboard,1,1038.91,2024-03-02,Credit Card,3,3.0,893.46
+C1125,Sara Ahmed,Male,UK,Manchester,Clothing,Shoes,5,434.54,2025-04-04,Debit Card,5,0.07,2020.61
+C1610,Ayesha Jones,Male,Canada, OTTAWA ,Books,Data Science Book,4,722.76,2024-05-16,cash,2,0.21,2283.92
+C1569,Ayesha Smith,Male,uk, MANCHESTER ,Electronics,Laptop,2,$1385.88,2025-05-06,Debit Card,0,0.21,2189.69
+C1289,Usman Ahmed,Male,UK,Manchester,,Keyboard,1,758.13,2025-06-13,Bank Transfer,5,0.04,727.8
+C1442,Zain Shah,,Pakistan,Islamabad,Electronics,Smartphone,4,712.07,2024-12-05,Credit Card,5,0.06,2677.38
+c1388,Hamza Patel,Male,UAE,Abu Dhabi,Clothing,Jacket,1,604.41,2024-12-16,Cash,5,0.28,435.18
+C1602,Zain Jones,Female,UK,London,Clothing,Hoodie,1,1162.05,2024-11-16,Debit Card,5,0.22,906.4
+C1108,Fatima Lohano,Female,India,Mumbai,Home & Kitchen,Chair,1,432.04,2025-11-25,Bank Transfer,4,0.16,362.91
+C1540, olivia malik ,Female,UK,London,Electronics,Mouse,1,1042.81,2025-02-20,Credit Card,2,0.11,928.1
+ C1155 ,John Lohano,Female,India,Delhi,Home & Kitchen,Coffee Maker,3,292.85,2024-12-06,PayPal,5,0.14,755.55
+C1296,Zain Malik,Male,UK,London,Books,Novel,5,1302.11,2024-02-27,Bank Transfer,2,2.0,6380.34
+C1082,Ali Brown,FEMALE,usa,Boston,Clothing,Jeans,5,623.96,2025-11-29,Credit Card,2,0.05,2963.81
+C1268,Fatima Khan,Male,Canada,Vancouver,Books,Novel,1,580.27,2025-03-12,Credit Card,3,,545.45
+C1619, john shah ,Female,USA,Boston,Clothing,T-Shirt,3,1068.28,2025-03-19,Credit Card,3,0.04,3076.65
+C1144,Olivia Ahmed,Male,Canada,Vancouver,Books,SQL Book,1,212.24,2024-03-16,Cash,0,0.27,154.94
+C1310,John Smith,Male, CANADA ,Toronto,Books,Python Book,2,925.57,2025-10-10,PayPal,4,0.13,1610.49
+C1607,Sara Ahmed,Female,UAE,Abu Dhabi,Electronics,Smartphone,1,-10,2025-05-18,PayPal,4,0.28,890.32
+C1370,,Male,USA,Chicago,Sports,Running Shoes,5,1454.17,2025-10-14,CASH,3,0.28,5235.01
+C1207,John Ahmed,Female,India,Pune, Electronics ,Running Shoes,4,286.75,2025-08-22,PayPal,,0.23,883.19
+C1568,Emma Shah,Male, India ,Pune,Home & Kitchen,Chair,4,517.07,2024-06-15,Cash,2,0.05,1964.87
+C1168,Usman Lohano,Female,USA,Chicago,Home & Kitchen,Blender,3,1433.42,2024-03-21,Debit Card,,0.2,3440.21
+C1511, olivia shah ,Female,Canada,Toronto,Electronics,Laptop,1,622.76,2025-06-21,credit card,4,0.11,554.26
+C1011,Usman Brown,Male,Pakistan,Islamabad,Books,SQL Book,4,14.84,2024-09-26,Bank Transfer,2,0.15,50.46
+C1580,Sara Malik,Female,India,Pune,ELECTRONICS,Hoodie,4,192.92,2025-03-10,PayPal,3,0.23,594.19
+C1330,Zain Wilson,Female,Canada,Ottawa,Clothing,Shoes,3,$551.38,2024-02-25,Credit Card,4,0.1,1488.73
+C1344,John Khan,Female,UK,Birmingham,Clothing,T-Shirt,2,1393.66,2025-09-03,Cash,5,0.25,2090.49
+C1567,Sara Malik,Male,Canada, VANCOUVER ,Home & Kitchen,Lamp,3,$1031.31,2025-12-05,Debit Card,1,0.16,2598.9
+C1050,Sara Ahmed, Male , CANADA ,Toronto,Books,Data Science Book,3,260.01,2025-09-13,Cash,2,0.29,553.82
+C1624,Zain Smith,Male,Canada,Ottawa,Clothing,Shoes,1,,2025-05-25,,3,0.01,373.0
+C1398,David Malik,Female,UAE,,Home & Kitchen,Lamp,,844.92,2024-09-20,Debit Card,1,0.12,2230.59
+c1385,John Smith,Male,UK,Manchester,Sports,Football,3,270.8,2025-06-02,Cash,5,0.02,796.15
+C1338,David Patel,Male,USA,Boston,Sports,Yoga Mat,4,0,2025-06-30,Debit Card,4,0.24,3084.44
+C1595,John Lohano,FEMALE,India,Ahmedabad,Books,Data Science Book,5,777.9,2025-11-18,Bank Transfer,2,0.26,2878.23
+c1132,Fatima Wilson,,UAE,Sharjah,books,Cricket Bat,2,444.0,2024-01-02,Bank Transfer,3,0.07,825.84
+C1559,John Ahmed, Male ,India,Ahmedabad,Books,Novel,3,254.05,2025-03-10,PayPal,2,0.25,571.61
+C1164,Ayesha Khan, Male ,India,Mumbai,Books,Data Science Book,4,235.63,2025-12-08,,4,0.15,801.14
+C1100,Sara Brown,Female,UK,Birmingham,Sports,Tennis Racket,4,763.27,2025-03-16,Cash,1,0.26,2259.28
+C1130, john ahmed ,Male,UAE,Abu Dhabi,Books,ML Book,1,1359.73,2024-01-20,Debit Card,2,0.25,1019.8
+C1274,Olivia Patel,Male,Canada,Toronto,Books,ML Book,3,$271.58,2024-02-08,Cash,1,0.07,757.71
+C1019,John Ahmed,Male,Pakistan,Jamshoro,Sports,Football,1,981.7,2025-07-07,,1,0.28,706.82
+C1023, ahmed smith ,Female,Pakistan,Hyderabad,SPORTS,Hoodie,5,69.22,2024-03-24,PayPal,5,0.17,287.26
+C1189,Sara Lohano,Female,Pakistan,Islamabad,Books,ML Book,3,1047.5,2025-02-22,Credit Card,6,0.11,2796.82
+C1466,Ahmed Khan,Male,UK,London,Electronics,Jacket,5,$994.78,2025-12-17,Bank Transfer,5,0.24,3780.16
+C1463,Sara Smith,Male,,Vancouver,Electronics,Keyboard,4,1284.56,2025-07-10,Cash,5,0.26,3802.3
+C1436,Ali Patel,Male,USA,Chicago,Clothing,T-Shirt,4,$1456.85,2025-09-01,Bank Transfer,10,0.03,5652.58
+C1406,Fatima Wilson,Female,Canada,Ottawa,Sports,Tennis Racket,3,727.66,2024-08-20,Cash,4,0.09,1986.51
+c1231,Ayesha Brown,Male,USA,Chicago,Sports,Tennis Racket,2,1173.3,2025-08-02,PayPal,5,0.15,1994.61
+C1334,Fatima Ahmed,Male,UK, LONDON ,Sports,Football,5,1403.61,2025-08-22,PayPal,5,0.23,5403.9
+C1400,Fatima Malik,Female,Canada,Vancouver,Books,SQL Book,2,964.47,2024-12-11,PayPal,5,0.17,1601.02
+C1254,Ahmed Brown,Male,UK,Manchester,Sports,Tennis Racket,1,754.42,2025-08-03,Debit Card,3,0.05,716.7
+C1612,Usman Wilson,Male,Pakistan,Jamshoro,Electronics,Jacket,2,84.18,2025-09-24,PayPal,5,0.08,154.89
+C1373,Usman Lohano,Male,Canada, TORONTO ,,Shoes,5,903.72,2025-06-28,Bank Transfer,1,0.03,4383.04
+c1349,Ali Brown,Male,USA,New York,Electronics,Headphones,5,804.48,2025-10-03,Cash,2,0.2,3217.92
+C1498, sara malik ,M,UAE,Abu Dhabi,Books,ML Book,4,938.64,2025-04-10,Bank Transfer,4,0.17,3116.28
+C1028,Ayesha Brown,Female,USA,New York,Electronics,Keyboard,,-50,2024-07-12,Credit Card,3,0.05,215.72
+C1368,Sara Shah,Female,Canada,Ottawa,Electronics,Headphones,4,1218.65,2024-04-26,PayPal,4,0.14,4192.16
+C1259,,Male,UK,London,Clothing,Hoodie,3,957.55,2025-12-11,Cash,3,0.0,2872.65
+C1200,Usman Brown,Male,Canada,Ottawa,Books,SQL Book,1,1377.89,2025-06-20,Credit Card,2,0.06,1295.22
+C1203,Hamza Patel,Male,Canada, TORONTO ,Clothing,Jeans,5,$718.5,2024-02-17,Cash,3,0.27,2622.53
+C1454,Fatima Shah,Female,UAE,,Home & Kitchen,Cookware Set,4,742.25,2024-05-20,Credit Card,2,0.07,2761.17
+C1591,Hamza Brown,Male,,Abu Dhabi,Sports,Football,3,572.83,2025-02-03,Debit Card,5,0.03,1666.94
+C1282,Ali Brown,M,USA,Houston,Electronics,Laptop,3,263.46,2025-01-19,Credit Card,1,0.16,663.92
+C1332,David Brown,Female,UAE,Dubai,Electronics,Headphones,4,219.27,2025-02-23,,3,0.18,719.21
+C1512,Olivia Brown, Male ,India,Mumbai,Electronics,Mouse,1,$94.75,2025-08-31,Credit Card,5,0.19,76.75
+C1369,Zain Shah,Female,Pakistan,Lahore,Electronics,Headphones,5,892.6,2024-05-17,Bank Transfer,1,0.27,3257.99
+C1262,Ali Lohano,Male,India,Pune,Home & Kitchen,Lamp,0,1054.08,2024-11-30,,4,0.08,3879.01
+C1087,Ayesha Smith, Male ,UAE,Sharjah,Clothing,T-Shirt,1,470.31,2025-03-27,Cash,5,0.11,418.58
+###,Ahmed Wilson,Male,USA,Boston,Books,SQL Book,1,892.23,2025-10-04,Credit Card,1,0.21,704.86
+C1139,Sara Jones,Female,USA,New York,Electronics,Smartphone,3,466.68,2025-09-09,PayPal,2,0.21,1106.03
+C1083,Zain Lohano,Male,UK,Birmingham,Clothing,Jeans,4,960.48,,Debit Card,1,0.27,2804.6
+C1341, usman lohano ,Male,Canada,Ottawa,Home & Kitchen,Blender,4,50000,2025-12-02,Debit Card,5,0.02,2302.84
+C1114,Ahmed Jones,Male,Canada,Ottawa,Clothing,Jacket,3,1093.79,2025-10-22,Credit Card,2,0.03,3182.93
+C1038,Hamza Wilson,Female,UK,Manchester,Books,SQL Book,5,715.05,2024-06-22,Cash,3,0.15,3038.96
+C1058,Olivia Jones,Female,United States, BOSTON ,Home & Kitchen,Lamp,3,353.5,2024-07-16,Debit Card,1,0.22,827.19
+C1225,Olivia Malik,Male,Canada,Toronto,Home & Kitchen,Lamp,2,691.75,2024-09-25,PayPal,,0.29,982.28
+C1361,,Male,uae,Dubai,Electronics,Mouse,1,1220.84,2025-08-15,PayPal,5,0.06,1147.59
+ C1156 ,John Ahmed,Male,Pakistan,Jamshoro,Sports,Running Shoes,2,330.57,2024-12-27,Cash,1,0.08,608.25
+C1278,Olivia Brown, Male ,India,Mumbai, Electronics ,Running Shoes,5,58.25,2025-09-08,Debit Card,5,0.07,270.86
+C1037,,Female,UAE,Sharjah,ELECTRONICS,Hoodie,5,458.42,2025-07-15,Cash,3,0.09,2085.81
+C1419,Usman Patel,Female,UAE,Dubai,Electronics,Keyboard,3,1089.35,2024-09-13,Cash,4,0.21,2581.76
+C1631, olivia shah ,Female,Canada,Ottawa,Sports,Football,3,707.65,2024-03-22,PayPal,3,0.04,2038.03
+c1246,David Malik,Male,Canada,Ottawa,Sports,Yoga Mat,3,1170.66,2025-12-08,Cash,3,0.06,3301.26
+C1276,Zain Shah,Male,Canada,Vancouver,Electronics,Smartphone,4,,2024-12-10,Debit Card,3,0.04,3391.33
+C1175,David Lohano,FEMALE,Canada,Vancouver,Electronics,Keyboard,1,$285.32,2024-05-23,PayPal,3,0.28,205.43
+C1375,Fatima Lohano,Female,Canada,Ottawa,Sports,Football,4,209.49,2025-05-03,paypal,1,0.08,770.92
+C1135, emma shah ,Male,USA,Houston,Clothing,Shoes,4,$951.29,2024-05-18,bank transfer,4,0.01,3767.11
+C1502,John Wilson,Male,USA,New York,Books,Novel,5,1360.02,2025-08-10,Debit Card,4,0.11,6052.09
+C1008,Zain Patel,Male,UAE,Abu Dhabi,Books,Novel,2,404.67,2024-09-09,Bank Transfer,5,0.08,744.59
+C1234, sara wilson ,Male,INDIA,Delhi,Electronics,Mouse,3,803.1,2025-09-03,Bank Transfer,2,0.1,2168.37
+C1196,Emma Smith,Female,Canada,Toronto,Books,ML Book,3,393.42,2025-05-15,PayPal,4,0.05,1121.25
+C1181, fatima malik ,Female,PAKISTAN,Jamshoro,Clothing,Hoodie,4,690.63,2024-02-29,Bank Transfer,4,0.2,2210.02
+C1223,Olivia Smith,Male,Canada,Toronto,Home & Kitchen,Coffee Maker,4,1438.11,2024-08-25,PayPal,2,0.06,5407.29
+C1410,Zain Brown,Female,UAE,Sharjah,Sports,Tennis Racket,4,290.12,2024-03-11, Credit Card ,2,0.09,1056.04
+C1509,Fatima Lohano,Female,Canada,Ottawa,Electronics,Laptop,5,959.76,2025-03-18,Bank Transfer,6,0.1,4318.92
+C1441,Fatima Wilson,female,UK,London,Clothing,Jeans,3,242.43,2024-03-28,Cash,1,0.07,676.38
+C1401,Ahmed Malik,Male,USA,Chicago,ELECTRONICS,Lamp,3,$1068.55,2025-09-11,PayPal,3,0.27,2340.12
+C1167,John Brown,Male,UAE, SHARJAH ,Books,Data Science Book,4,75000,2024-10-07,Bank Transfer,1,0.17,1758.67
+C1471, ayesha khan ,Male,Pakistan,Jamshoro,,Headphones,5,1498.49,2025-02-27,Cash,3,0.1,6743.2
+C1112,Olivia Lohano,Female,Pakistan,Jamshoro,Electronics,Smartphone,2,1203.97,2025-09-24,cash,3,0.03,2335.7
+c1191,Ayesha Brown,Male,U.S.A,New York,Books,Data Science Book,1,808.1,2024-07-14,Cash,3,0.11,719.21
+C1537,Sara Patel,Male,USA,Chicago,Sports,Cricket Bat,5,1455.5,2024-08-23,Cash,4,0.26,5385.35
+C1288,Olivia Malik,Male,UAE,Abu Dhabi,Sports,Running Shoes,5,15000,2024-03-03,PayPal,5,0.13,1518.11
+C1594,Zain Malik,Female,USA,New York,Sports,Yoga Mat,4,646.39,2024-12-21,Cash,3,0.15,2197.73
+C1301,David Shah,Male, India , PUNE ,Sports,Tennis Racket,3,$641.47,2025-01-20,Debit Card,4,0.08,1770.46
+C1481,Olivia Brown,Male,Canada,Vancouver,Clothing,Jacket,2,296.89,2024-10-10,Bank Transfer,3,0.23,457.21
+C1160,Ali Khan,Male,india,Pune,Books,ML Book,4,231.92,2025-06-11,Credit Card,3,0.28,667.93
+C1153,Olivia Khan,Male,UK,Manchester,Books,Novel,2,$516.89,2024-05-27,Debit Card,3,0.22,806.35
+C1627,David Brown,,Pakistan, KARACHI ,Sports,Yoga Mat,4,147.9,2024-09-18,Credit Card,2,0.29,420.04
+C1178,,female,India,Delhi,Books,SQL Book,4,1124.12,2025-09-12,Debit Card,4,0.21,3552.22
+C1173,Zain Malik,Female,USA,Boston,Sports,Yoga Mat,4,$1335.0,2024-05-17,cash,4,0.08,4912.8
+C1336,Zain Smith,Female,UK,Manchester,Home & Kitchen,Chair,2,215.89,2025-09-08,Bank Transfer,3,0.25,323.83
+C1620,Ali Shah,Female,USA,Houston,Books,Data Science Book,3,923.27,2024-09-27,Bank Transfer,3,0.13,2409.73
+C1599,Ayesha Brown,Female,uk,Birmingham,SPORTS,Novel,1,310.97,2024-06-10,Credit Card,1,0.08,286.09
+C1618,Ali Khan,Female,Canada,Ottawa,Books,Data Science Book,4,1010.18,2024-05-15,Bank Transfer,1,0.17,3353.8
+C1640,Zain Lohano,Male,USA, NEW YORK ,Electronics,Keyboard,,1274.44,2025-08-15,Bank Transfer,5,,3568.43
+C1138,Hamza Patel,Male,UK,Birmingham,Books,Data Science Book,5,407.41,2024-03-25,Debit Card,1,0.13,1772.23
+C1127,Ayesha Wilson,Male,USA,New York,CLOTHING,Data Science Book,5,1402.1,,Bank Transfer,1,0.09,6379.56
+C1586,John Shah,Female,UK, LONDON ,Home & Kitchen,Chair,4,1148.38,2025-08-05,PayPal,,0.21,3628.88
+C1317,David Khan,Female,United Kingdom,Birmingham,Electronics,Mouse,3,$937.97,2025-12-18,Credit Card,4,0.25,2110.43
+C1606, david malik ,Male,UK, MANCHESTER ,Electronics,Keyboard,3,458.32,2024-08-29,Debit Card,2,0.26,1017.47
+C1379,Zain Patel,Female,U.A.E.,Dubai,Electronics,Headphones,4,1176.83,2024-06-14,Cash,2,0.15,4001.22
+C1541,Ayesha Malik,Male,UK,,Home & Kitchen,,4,1288.3,2025-08-20,Cash,4,0.14,4431.75
+C1615,Ayesha Lohano,Male,UK,London,Electronics,Smartphone,3,360.87,2025-04-06,Cash,3,0.17,898.57
+C1104,Ahmed Wilson,Male,India,Ahmedabad,Clothing,T-Shirt,3,1269.61,2025-01-11,Cash,3,-0.05,3161.33
+C1049,Olivia Jones,Male,USA,Chicago,Electronics,Laptop,1,1424.92,2024-07-23,Cash,,0.05,1353.67
+C1054,Usman Ahmed,Female,UK,Birmingham,Clothing,Tennis Racket,3,1279.05,2024-03-29,Debit Card,4,0.07,3568.55
+C1154,Emma Lohano,Male,USA,New York,Home & Kitchen,Cookware Set,4,$192.56,2025-04-05,Credit Card,2,0.03,747.13
+C1477,John Patel,Male,USA,Boston,Electronics,Keyboard,2,563.66,2024-11-05,Credit Card,5,0.09,1025.86
+C1597,Olivia Khan,Male,USA,Boston,Books,Jeans,2,$1122.19,2024-11-03,PayPal,4,0.1,2019.94
+C1270,Usman Ahmed,Male,Pakistan, ISLAMABAD ,Books,SQL Book,4,307.19,2025-06-22,Credit Card,5,0.24,933.86
+C1343,Sara Malik,Male,India,Mumbai,Books,Python Book,4,425.88,2024-09-27,Credit Card,2,0.18,1396.89
+C1318,Ahmed Jones,Male,USA, NEW YORK ,Electronics,Keyboard,2,917.41,2024-09-26,Bank Transfer,2,0.11,1632.99
+C1402,Emma Wilson,Female,UK,London,Clothing,T-Shirt,2,1094.38,2025-11-08,Debit Card,1,,2057.43
+C1072,Usman Ahmed,Female,Pakistan,Lahore,Sports,Tennis Racket,0,1137.1,2025-10-02,PayPal,1,0.06,5344.37
+C1649,Ali Jones,Male,India,Mumbai,Clothing,Jacket,2,1095.24,2025-12-26,cash,5,0.15,1861.91
+C1521,David Ahmed,Male,India,Mumbai,Sports,T-Shirt,5,365.34,2025-02-02,Cash,5,0.19,1479.63
+C1430,Hamza Lohano,Female,Canada,Toronto,clothing,Yoga Mat,2,568.84,2025-07-17,Bank Transfer,3,,807.75
+c1306, fatima shah ,Female,UAE,Sharjah,Clothing,Jacket,1,341.16,2024-08-16,,4,0.24,259.28
+C1480,Usman Malik,Male,USA,New York,Sports,Football,3,705.65,2024-02-17,Cash,5,0.23,1630.05
+C1339,Usman Malik,Fem,, LONDON ,Electronics,Laptop,2,407.8,2024-06-13,Debit Card,3,0.04,782.98
+C1248,Ahmed Jones,FEMALE,USA,,Clothing,Shoes,5,637.09,2025-07-13,Credit Card,4,0.29,2261.67
+C1003,Zain Brown,Male,India,Ahmedabad,Home & Kitchen,Lamp,2,$330.82,2024-12-10,Cash,1,0.11,588.86
+C1394,John Ahmed,Female,USA,Chicago,BOOKS,Novel,2,634.45,2025-01-16,Debit Card,,0.08,1167.39
+C1005, olivia malik ,Male,UAE,Dubai,,Blender,2,1301.06,2025-01-24,Debit Card,4,0.19,2107.72
+C1345,John Ahmed,,Pakistan,Islamabad,Sports,Cricket Bat,2,785.7,2025-06-01,Credit Card,4,,1319.98
+C1465, usman smith ,Male,India,Delhi,Electronics,Smartphone,1,226.61,2024-02-03,Debit Card,5,0.09,206.22
+C1026,Ayesha Patel,Female,India,Ahmedabad,Sports,Tennis Racket,5,1475.94,2025-10-31,Bank Transfer,1,0.2,5903.76
+C1220,Ayesha Ahmed,Female,UK, MANCHESTER ,Sports,Yoga Mat,2,524.0,2024-01-26,PayPal,1,0.09,953.68
+C1047,Sara Wilson,Male,UK,Birmingham,Sports,Football,1,967.7,2024-05-18,PayPal,2,0.02,948.35
+C1648,Sara Jones,Male,UAE,Dubai,ELECTRONICS,Novel,1,1462.24,2025-09-17,Bank Transfer,,0.25,1096.68
+C1307,Emma Patel,Female,Canada,Vancouver,Home & Kitchen,Python Book,4,89.98,2025-10-11,Bank Transfer,5,0.28,259.14
+C1449,,Male,UAE,Abu Dhabi,Sports,Yoga Mat,2,631.83,2025-08-09,Credit Card,4,0.29,897.2
+C1273,John Jones,Male,India,Ahmedabad,Home & Kitchen,Cookware Set,2,362.46,2024-11-21,Debit Card,5,0.01,717.67
+C1513, olivia malik ,Male,Canada,Toronto,Books,ML Book,2,1345.04,,Credit Card,3,0.09,2447.97
+C1116,Zain Wilson,Female,uae,Abu Dhabi,Clothing,Shoes,1,708.69,2025-10-08,Debit Card,3,0.18,0.0
+C1520,John Smith,Male,Canada,Toronto,Clothing,SQL Book,3,$1046.86,2024-04-19,Bank Transfer,9,0.03,3046.36
+C1641,Ali Ahmed,Female,UK,Birmingham,Sports,Yoga Mat,4,355.54,2024-03-03,Bank Transfer,1,0.13,1237.28
+C1553,Emma Shah,Male,Canada,Ottawa,Electronics,Smartphone,3,230.44,2025-04-04,Bank Transfer,2,0.16,580.71
+C1546,Emma Ahmed,Female,Canada,Ottawa,Electronics,Keyboard,5,1020.68,2025-06-29,Debit Card,4,0.19,4133.75
+C1172,Olivia Khan,Male,UK,London,Electronics,Keyboard,4,287.6,2024-10-23,Cash,1,0.09,1046.86
+C1018,Olivia Khan,Male,Pakistan,Jamshoro,Home & Kitchen,Blender,2,295.47,2025-07-03,PayPal,2,0.13,514.12
+C1133,Hamza Shah,Male,Canada,Vancouver,Electronics,Mouse,5,$765.92,2025-06-03,Bank Transfer,1,0.12,3370.05
+C1645,Olivia Malik,Female,India,Delhi,Clothing,Jeans,5,743.36,2025-03-01,PayPal,3,0.07,
+C1126,Fatima Smith,Female,UAE,Sharjah,Books,Novel,3,5,2025-05-29,Bank Transfer,4,0.29,2490.82
+c1195,Ali Wilson,Male,UAE,Dubai,,Smartphone,5,1402.79,2025-08-16,PayPal,3,0.05,6663.25
+C1452,Sara Khan,Female,UK, MANCHESTER ,Home & Kitchen,Chair,3,236.42,2024-07-11,Cash,2,,666.7
+C1103,Zain Jones,Female,UAE, DUBAI ,Books,Data Science Book,4,1303.46,2024-02-22,Debit Card,5,0.09,4744.59
+c1302,Fatima Brown,Female,Canada,Toronto,Electronics,Mouse,3,846.57,2025-08-31,Bank Transfer,3,0.09,2311.14
+C1560,Zain Malik,Male,India,Pune,Books,ML Book,3,108.51,2025-08-27,PayPal,1,0.0,325.53
+c1210,Ali Malik, Female ,Canada,Toronto,Sports,Yoga Mat,3,1296.94,2024-01-13,Debit Card,4,0.12,3423.92
+C1205,Zain Smith,female,UAE,Sharjah,Home & Kitchen,Chair,2,1187.84,2025-12-06,Cash,5,0.22,1853.03
+C1163,David Wilson,Male,UAE,Dubai,Sports,Running Shoes,2,791.11,2025-09-26,PayPal,2,0.25,1186.66
+C1357,John Malik,Male,UAE,Sharjah,Books,Data Science Book,3,201.04,2025-11-02,Credit Card,1,0.09,548.84
+C1295,John Brown,Female,UK,Birmingham,Electronics,Headphones,2,457.72,2025-03-29,Debit Card,3,0.22,714.04
+C1438,Hamza Jones,Female,UAE,Dubai,Clothing,Shoes,5,305.18,2025-02-08,Bank Transfer,2,0.17,1266.5
+C1460,Emma Ahmed,Male,India,Ahmedabad,Sports,Cricket Bat,4,144.37,2024-11-27,Credit Card,1,0.03,560.16
+C1215,David Ahmed,Male,USA,Boston,Home & Kitchen,Chair,3,179.69,2025-07-31,Credit Card,5,0.3,377.35
+C1623,Olivia Shah,,USA,New York,Clothing,Jacket,2,1254.08,2025-06-04,Debit Card,5,0.27,1830.96
+c1142,Zain Khan,Male,UAE,Abu Dhabi,Home & Kitchen,Lamp,4,1147.0,2025-10-08,Credit Card,5,0.11,4083.32
+C1633,Hamza Malik,Female,UAE,Sharjah,electronics,Tennis Racket,3,30000,2024-03-24,Bank Transfer,1,0.03,1134.14
+C1191,Ayesha Brown,Male,U.S.A,New York,Books,Data Science Book,1,808.1,2024-07-14,Cash,3,0.11,719.21
+C1179,Fatima Jones,Male,India,Mumbai,Sports,Running Shoes,5,1058.61,2024-03-20,Bank Transfer,1,0.02,5187.19
+C1085,Ayesha Lohano,Female,Pakistan,Lahore,Books,ML Book,3,100000,2025-12-17,Debit Card,1,0.29,1845.58
+C1625,David Malik,Female,USA,,Home & Kitchen,Cookware Set,1,130.78,2025-12-25,credit card,4,0.19,
+C1045,Zain Khan,FEMALE,UK,London,Sports,Lamp,,1281.64,2025-03-05,Bank Transfer,5,0.24,3896.19
+c1378, john lohano ,Female,,Birmingham,Sports,Running Shoes,2,561.62,2025-07-22,PayPal,3,0.3,786.27
+ C1137 ,David Smith,Female,USA,New York,Home & Kitchen,Lamp,1,1201.02,2025-03-23,PayPal,4,0.27,876.74
+C1576,Ahmed Shah,Female,UK,Manchester,Clothing,Hoodie,2,617.29,2024-11-17,Cash,4,0.03,1197.54
+c1014,Fatima Jones,Male,USA,Boston,Clothing,Hoodie,2,1072.29,2025-02-12,Debit Card,4,0.27,1565.54
+c1519,Emma Patel,Female,UK,London,Electronics,Smartphone,5,$1281.48,2024-12-14,Cash,4,0.23,4933.7
+C1136,Ayesha Khan,Male,Pakistan,Islamabad,Home & Kitchen,Coffee Maker,4,$1483.79,2025-07-10,PayPal,,0.01,5875.81
+C1539, zain shah ,Male,,London,Electronics,Keyboard,5,60.09,,PayPal,4,0.24,228.34
+C1434,Ayesha Malik,Female,UK,London,home & kitchen,ML Book,1,896.89,2024-11-03,Cash,5,0.11,798.23
+C1613,Ahmed Patel,Male,Canada,Toronto,Electronics,Mouse,4,1162.31,2025-04-09,PayPal,1,0.07,4323.79
+C1264, ayesha ahmed ,Female,UK,Manchester,Electronics,Laptop,2,,2024-11-07,Bank Transfer,1,0.06,2281.04
+C1582,Fatima Malik,Male,USA,Boston,Books,SQL Book,2,54.29,2024-02-24,Cash,4,0.2,86.86
+C1027,Usman Brown,Male,?,Pune,Electronics,Laptop,5,241.62,2024-10-15,Bank Transfer,2,0.22,942.32
+C1184,David Jones,Male,UAE,Abu Dhabi,Electronics,Headphones,5,595.66,2024-10-05,,1,0.23,2293.29
+C1217,John Smith,Female,UAE,Dubai,Books,Novel,1,679.11,2025-09-04,PayPal,5,0.12,597.62
+C1577,Sara Ahmed,Female,UAE,Abu Dhabi,Sports,Football,1,498.89,2024-04-28,PayPal,3,0.14,429.05
+C1143,Emma Brown,Male,Pakistan,Karachi,Clothing,Shoes,5,586.61,2025-07-29,Cash,3,0.23,2258.45
+C1517,Fatima Shah,FEMALE,Pakistan,Jamshoro,Home & Kitchen,Cookware Set,3,1357.88,2025-08-11,CASH,5,0.21,3218.18
+NULL,Hamza Shah,Male,Canada,Vancouver,Electronics,Mouse,5,$765.92,2025-06-03,Bank Transfer,1,0.12,3370.05
+C1490,Hamza Wilson,Female,Canada,Ottawa,Clothing,Jeans,,1111.66,2025-12-29,Bank Transfer,4,0.03,1078.31
+C1474,Fatima Ahmed,Male,UAE,Dubai,Books,SQL Book,4,1339.17,2025-07-03,Debit Card,4,0.24,4071.08
+C1472,David Smith,Male,,Dubai,Home & Kitchen,Lamp,1,$468.58,2025-02-06,Bank Transfer,3,0.23,360.81
+C1617,John Malik,Male,Canada,Toronto,Electronics,Smartphone,2,711.69,2024-12-28,Bank Transfer,5,0.21,1124.47
+C1044,Hamza Shah,Male,PAKISTAN,Jamshoro,Books,Data Science Book,5,704.23,2024-03-04,Credit Card,4,0.12,3098.61
+C1260,David Lohano,, Pakistan ,Lahore,Sports,Cricket Bat,4,743.12,2024-03-02,Credit Card,3,0.03,2883.31
+C1457, olivia khan ,Male,UK,Manchester,Books,Headphones,5,811.43,2024-02-10,Bank Transfer,4,0.15,3448.58
+C1229,John Shah,Male,USA,Boston,Sports,Football,3,1428.24,2025-05-11,Credit Card,2,0.24,3256.39
+C1372,John Shah,Female,UK,Birmingham,Sports,Football,2,573.53,2024-05-15,Cash,1,0.06,1078.24
+C1001A,,Female,USA,Chicago,Electronics,Blender,5,956.12,2025-06-30,Credit Card,2,0.14,4111.32
+C1267,Emma Malik,Female,Pakistan,Karachi,Electronics,Headphones,4,$1215.86,2024-04-04,Debit Card,1,0.01,4814.81
+C1151,Sara Wilson,Male,Invalid, PUNE ,Sports,Football,1,131.02,2025-10-18,paypal,,0.2,104.82
+C1604,Ali Ahmed,female,UAE,,Home & Kitchen,Coffee Maker,4,717.53,2024-09-09,paypal,,0.11,2554.41
+C1639,Ahmed Shah,Male,UAE,Sharjah,Books,Novel,4,$39.25,2025-04-05,Bank Transfer,2,0.06,147.58
+C1012,Ahmed Brown,Male,india,Pune,Clothing,Hoodie,5,1378.56,2025-09-05,,4,0.01,6823.87
+C1118,Usman Lohano,Female,Canada,Ottawa,Electronics,Keyboard,5,981.24,2024-11-25,paypal,4,0.15,4170.27
+C1609,Ali Shah, Female ,UAE,Dubai,Electronics,Keyboard,2,946.16,2024-11-17,Bank Transfer,1,0.03,1835.55
+C1587,Zain Ahmed,Female,Canada,Toronto,Sports,Football,4,402.45,2025-08-28,PayPal,5,0.2,1287.84
+C1308,Ahmed Ahmed,Male,Canada,Toronto,Books,ML Book,3,625.53,2024-06-03,Credit Card,2,0.1,1688.93
+c1076,John Lohano,Female,Canada,Vancouver,Electronics,Smartphone,3,1257.84,2025-08-16,,2,0.13,3282.96
+C1174,Ahmed Patel,Male,United Arab Emirates,Abu Dhabi,,Cookware Set,1,1107.56,2024-10-29,Bank Transfer,2,,1052.18
+C1563,David Ahmed,Male,UAE,Sharjah,Home & Kitchen,Chair,2,742.91,2025-12-05,Credit Card,1,0.04,1426.39
+C1052,John Wilson,Male, CANADA ,Toronto,Home & Kitchen,Coffee Maker,4,995.67,2024-03-11,Bank Transfer,3,0.0,3982.68
+C1367,Emma Ahmed,Female,Canada,Toronto,Sports,Cricket Bat,4,256.75,2024-03-19,Bank Transfer,3,0.06,965.38
+C1236, sara shah ,Male,India,Pune,Clothing,Shoes,4,221.84,2025-10-09,Debit Card,4,0.11,789.75
+C1494,David Brown,Female,UAE,Abu Dhabi,Electronics,Mouse,1,921.12,2025-06-06,PayPal,2,0.26,681.63
+C1487,Hamza Shah,Female,USA,,Books,Python Book,1,718.25,2024-12-25,PayPal,4,0.25,538.69
+C1523,David Jones,Female,UAE,Sharjah,Clothing,Hoodie,2,1387.98,2024-02-07,Credit Card,4,0.2,2220.77
+C1086,David Lohano,Female,Pakistan,Hyderabad,Electronics,Mouse,4,1250.93,2024-10-20,Credit Card,5,0.24,3802.83
+C1094,Fatima Smith,Female,Pakistan,Islamabad,Sports,Tennis Racket,1,603.23,2024-07-13,Cash,4,0.03,585.13
+C1644,Olivia Ahmed, Male ,USA,Boston,Books,Data Science Book,4,1201.64,2024-06-14,Bank Transfer,2,0.08,4422.04
+C1363,Usman Malik, Male ,USA,New York,Clothing,Hoodie,2,1138.24,2024-05-23,PayPal,2,0.05,2162.66
+C1533,Ali Jones,Male,India,Mumbai,Books,ML Book,1,115.58,2024-08-28,PayPal,5,0.17,95.93
+C1149,Sara Lohano, Male ,Pakistan,Hyderabad,Clothing,Jacket,2,251.33,2025-12-27,Credit Card,3,0.28,361.92
+C1437,Hamza Brown,Female,India,Delhi,Home & Kitchen,Blender,4,861.45,2024-02-20,Bank Transfer,4,0.08,3170.14
+C1250,Usman Lohano,MALE,UAE,Abu Dhabi,clothing,Mouse,5,927.91,2024-10-11,Cash,3,0.02,4546.76
+C1572,David Jones,M,UK,London,Sports,Blender,1,,2024-01-11,Cash,1,0.28,330.8
+C1201,Usman Brown,Female,USA,Boston,sports,Smartphone,4,693.91,2024-09-06,Credit Card,3,0.21,2192.76
+C1303,Ahmed Ahmed,Male,USA,Houston,Home & Kitchen,Lamp,3,987.62,2025-10-29,Debit Card,2,0.04,2844.35
+C1092,John Ahmed,Male,Pakistan,Lahore,Sports,Cricket Bat,4,685.93,,Bank Transfer,4,0.18,2249.85
+C1221,Ahmed Malik,MALE,USA,Houston,,Chair,2,786.46,2024-12-22,cash,1,0.13,1368.44
+C1029,Fatima Jones,Female,Canada,Toronto,Electronics,Laptop,2,822.93,2025-01-13,Bank Transfer,5,0.04,1580.03
+C1439,Olivia Jones,Male,INDIA,Mumbai,Home & Kitchen,Chair,3,1030.26,2025-12-08,paypal,1,0.2,2472.62
+C1073,Usman Shah,female,UK, BIRMINGHAM ,Books,Python Book,1,1459.99,2025-09-15,Credit Card,2,0.09,1328.59
+C1393,Ali Khan,Male,UK,Birmingham,Electronics,Smartphone,3,923.04,2024-09-22,Credit Card,5,0.08,2547.59
+C1468,Fatima Shah,Male,UAE,Abu Dhabi,Home & Kitchen,Coffee Maker,4,791.72,2025-12-13,Credit Card,5,0.02,3103.54
+C1281,,Female,UK,Manchester,Sports,Running Shoes,1,1244.92,2025-08-14,,2,0.14,1070.63
+C1462,Sara Patel,Male,India,Delhi,Clothing,T-Shirt,4,469.01,2025-04-01,Debit Card,2,0.04,1801.0
+C1435,Ali Patel,Female,UK,Manchester,Electronics,Headphones,5,$1393.69,2025-10-11,PayPal,1,0.09,6341.29
+C1313,Ali Brown,Female,United Kingdom,Birmingham,SPORTS,Yoga Mat,5,513.37,2025-12-04,Credit Card,3,0.3,1796.79
+C1183,Ahmed Ahmed,Male,USA,Boston,Clothing,Jeans,4,$567.95,2025-01-26,PayPal,4,0.11,2021.9
+C1176,Ali Brown,Female,India,Ahmedabad,Electronics,Lamp,3,877.87,,Cash,3,0.2,2106.89
+C1387,Emma Ahmed,Female,,,Unknown,Python Book,3,110.66,2025-10-10,Credit Card,2,,252.3
+C1271,Hamza Patel,Female,Canada,Vancouver,Home & Kitchen,Coffee Maker,5,489.19,2024-10-03,Credit Card,1,0.1,2201.36
+C1342,Olivia Brown,F,Canada,Vancouver,Clothing,Jacket,5,824.46,2025-09-09,Credit Card,2,0.09,3751.29
+C1614,,Female,United States,Boston,Books,SQL Book,4,1285.94,2025-09-06,Credit Card,3,0.22,4012.13
+C1516,Hamza Smith,Male,UK,Birmingham,Home & Kitchen,Blender,1,118.65,2025-08-08,Debit Card,4,0.01,117.46
+C1483,Emma Jones,Female,USA,Chicago,Home & Kitchen,Coffee Maker,2,265.2,2024-11-14,Bank Transfer,3,0.16,445.54
+C1628,Hamza Malik,Male,,Delhi,Books,Novel,3,974.28,2025-10-31,bank transfer,1,0.09,2659.78
+C1384,Ayesha Jones,Male,UAE,Sharjah,Electronics,Laptop,5,433.9,2025-07-26,Bank Transfer,3,0.1,1952.55
+C1081, ahmed smith ,Female,India,Mumbai,Books,Python Book,1,$671.08,2025-12-11,Debit Card,1,0.01,664.37
+C1383,Zain Shah,Male,USA,Chicago,Electronics,Headphones,1,1495.26,2025-02-13,Debit Card,4,0.12,1315.83
+ C1603 ,Olivia Smith,Female,India,Delhi,Electronics,Headphones,2,$1455.19,2025-03-26,PayPal,3,0.26,2153.68
+ C1064 ,Zain Malik,MALE,U.A.E.,Dubai,Home & Kitchen,Blender,2,367.4,2025-07-19,,2,0.0,734.8
+C1062,Ahmed Lohano,Female,Pakistan,Hyderabad,Electronics,Headphones,2,1218.6,2024-11-07,Cash,2,0.04,2339.71
+C1279,Zain Malik,Female,india,Pune,Electronics,Headphones,3,1473.75,2024-06-20,cash,3,0.13,3846.49
+C1556,Usman Malik,Female,Pakistan,Jamshoro,Sports,Cricket Bat,4,542.52,2024-11-30,Cash,5,0.19,1757.76
+C1527,Ahmed Malik,Female,INDIA,Ahmedabad,Clothing,Jacket,5,255.86,,Bank Transfer,1,0.04,1228.13
+C1280,,Male,UAE,Dubai,Home & Kitchen,Lamp,1,1083.42,2024-02-19,PayPal,4,0.22,845.07
+C1557,Zain Jones,Male,USA,Chicago,Electronics,Laptop,5,$1275.68,2025-11-24,Cash,5,0.12,5612.99
+C1630,Hamza Malik,Female,USA,Chicago,Books,Novel,1,70.25,2024-12-15,Debit Card,2,0.19,56.9
+C1187, hamza ahmed ,Male,Canada,Toronto,Electronics,Headphones,5,1490.29,2024-08-27,Bank Transfer,3,0.17,6184.7
+C1009,Zain Lohano,Female,U.S.A,Chicago,Clothing,Hoodie,4,$145.46,2024-02-18,Cash,2,0.19,471.29
+C1086,David Lohano,Female,Pakistan,Hyderabad,Electronics,Mouse,4,1250.93,2024-10-20,Credit Card,5,0.24,3802.83
+C1479,Fatima Jones,Female,USA,Chicago,Electronics,Mouse,2,315.73,2024-02-07, Credit Card ,4,0.21,498.85
+C1337,Usman Patel,Male,India,Delhi,Sports,Tennis Racket,3,1382.58,2024-05-15,Credit Card,5,0.16,3484.1
+C1456,Fatima Smith,,UK,London,Sports,Running Shoes,3,$597.28,2025-08-08,Bank Transfer,5,0.16,1505.15
+C1562,John Wilson,Female,uk,Birmingham,Books,SQL Book,,1188.92,2024-06-06,CASH,3,0.29,844.13
+C1097,Emma Smith,Female,Pakistan, LAHORE ,Home & Kitchen,Blender,2,1115.16,2025-06-22,Cash,1,0.14,1918.08
+C1495,Ali Patel,Female,Pakistan,Hyderabad,Home & Kitchen,Blender,3,1299.86,2024-08-28,PayPal,5,0.12,3431.63
+C1157,Zain Ahmed,,Canada,Toronto,Electronics,Keyboard,2,1324.86,2025-01-09,PayPal,3,0.01,2623.22
+C1482,David Malik,Female, India ,Delhi,Home & Kitchen,Blender,1,$1437.86,2025-07-27,Bank Transfer,1,0.06,1351.59
+C1399,Emma Wilson,,Canada,Ottawa,Sports,Cricket Bat,3,539.11,2025-11-20,Bank Transfer,4,0.23,1245.34
+c1122, olivia malik ,Female,Canada,Vancouver,Home & Kitchen,Cookware Set,5,149.24,,PayPal,5,0.11,664.12
+C1608,Emma Lohano,FEMALE,India,Pune,Sports,Football,3,637.1,2025-07-14,Debit Card,7,0.21,1509.93
+C1212,Sara Lohano,Female,UK,Manchester,Books,Python Book,3,385.03,2024-09-09,PayPal,5,0.19,935.62
+1005,Zain Wilson,Female,Pakistan,Jamshoro,Home & Kitchen,Cookware Set,1,1121.17,2024-10-02,credit card,1,0.1,1009.05
+C1581,Zain Wilson,Female,United Arab Emirates,Abu Dhabi,Home & Kitchen,Chair,5,1425.71,2025-05-11,Bank Transfer,3,0.04,6843.41
+C1507,Ayesha Ahmed,Male,India,Pune,Electronics,Smartphone,1,88.26,2025-04-20,NIL,4,0.09,80.32
+C1605,Olivia Patel,Female,Pakistan,Hyderabad,Electronics,Laptop,2,386.94,2025-01-28,Debit Card,3,0.27,564.93
+C1165,Zain Ahmed,Male,UAE,Dubai,Books,Cricket Bat,5,494.32,2025-11-09,PayPal,5,0.11,2199.72
+C1475,Hamza Khan,Female,Canada,Ottawa,Home & Kitchen,Coffee Maker,5,,2025-08-14,Debit Card,3,0.02,185.66
+C1503,John Brown,Male,Pakistan,Hyderabad,Home & Kitchen,Coffee Maker,3,$101.51,2025-04-29,CASH,2,0.17,252.76
+C1417, zain malik ,Female,India,Mumbai,Electronics,Mouse,4,$1035.73,2024-06-07,Debit Card,1,0.07,3852.92
+C1235, olivia brown ,Female,Canada,Vancouver,Sports,Football,2,1444.53,2025-02-25,Cash,3,1.5,2137.9
+C1496,Emma Lohano,Female,UK,Manchester,Sports,Cricket Bat,-2,717.56,2024-07-11,Bank Transfer,4,0.25,1076.34
+C1180,Usman Jones,Male,Canada,Ottawa,Clothing,Jeans,,1283.18,2025-03-28,Cash,2,0.22,3002.64
+C1550, david patel ,Female,Canada,,electronics,Yoga Mat,4,692.43,2025-08-03,Credit Card,3,0.05,2631.23
+c1309,Zain Ahmed,Male,USA,Chicago,Electronics,Keyboard,3,950.24,2024-06-30,Debit Card,1,0.0,2850.72
+C1070,Fatima Patel,female,USA,Houston,Electronics,Headphones,3,623.35,2025-05-22,cash,,0.24,1421.24
+C1272,Ayesha Khan, Male ,Pakistan, JAMSHORO ,Sports,Tennis Racket,5,1499.41,2024-06-12,Cash,2,0.2,5997.64
+C1637,Zain Patel,Female,USA,New York,Clothing,Jeans,1,$294.3,2024-01-17,Credit Card,1,0.06,276.64
+C1024, emma brown ,Male,UAE,Sharjah,Sports,,3,$599.72,2025-11-18,Debit Card,4,0.09,1637.24
+C1408,Fatima Ahmed,Female,Pakistan,Jamshoro,Home & Kitchen,Coffee Maker,-1,1197.18,2025-07-15,Debit Card,2,0.12,2107.04
+C1293,John Jones, Female ,UK,Manchester,Books,Novel,5,917.35,2024-02-08,Credit Card,3,0.12,4036.34
+C1412,John Brown, Male ,UAE,Abu Dhabi,Clothing,Headphones,1,$234.52,2025-05-20,Credit Card,3,0.13,204.03
+C1634,David Ahmed,Male, India ,Ahmedabad,Electronics,Laptop,4,$1316.37,2024-10-31,Debit Card,5,0.22,0.0
+C1352,David Malik,Male,U.A.E.,Sharjah,Sports,Football,5,77.82,2024-03-15,Bank Transfer,5,0.03,377.43
+C1059,Olivia Shah,Male,India,Ahmedabad,Home & Kitchen,Coffee Maker,5,899.22,2024-04-12,Credit Card,3,0.07,4181.37
+C1590,Ahmed Brown,Male,USA,Chicago,sports,Mouse,3,65.69,2025-11-04,PayPal,5,0.15,167.51
+C1080,John Patel,Female,United Arab Emirates,Dubai,Home & Kitchen,Coffee Maker,4,$1431.67,2025-10-03,PayPal,5,0.01,5669.41
+C1266,Hamza Ahmed,Male,PAKISTAN,Jamshoro,Electronics,Headphones,1,27.82,2024-08-15,Credit Card,2,0.25,20.87
+C1322,Sara Patel,Female,UK,Birmingham,Home & Kitchen,Blender,3,1224.3,2024-07-06,Cash,4,0.12,3232.15
+C1574,Usman Wilson,Male,Canada,Ottawa,Electronics,Laptop,5,1147.23,2025-06-25,Credit Card,2,0.29,4072.67
+C1531,Zain Patel,Male,United Kingdom,Birmingham,Clothing,Jacket,1,298.64,2024-06-01,PayPal,4,0.05,283.71
+C1093,Olivia Shah,Female,UAE,Dubai,Sports,ML Book,4,1409.19,2024-10-13,Cash,3,0.07,5242.19
+C1404,Sara Malik,Female,USA, CHICAGO ,Clothing,Jacket,4,943.46,2024-05-14,cash,2,0.01,3736.1
+C1500,Usman Wilson,Female, Pakistan ,Karachi,Sports,Running Shoes,3,$178.61,2025-05-08,Cash,2,0.22,417.95
+C1561,David Brown,Female, India ,Ahmedabad,Sports,,2,287.15,2025-01-25,Debit Card,5,0.15,488.15
+C1148,Emma Malik,Female,UK,Birmingham,Sports,Tennis Racket,2,1318.16,2025-07-18,Bank Transfer,2,0.23,2029.97
+ABC,Hamza Malik,Female, CANADA ,Ottawa,Electronics,Smartphone,2,$187.97,2025-12-25,Credit Card,1,0.05,357.14
+C1213,Fatima Malik,Male,USA,New York,HOME & KITCHEN,Data Science Book,5,576.04,2024-12-03,PayPal,3,0.13,2505.77
+C1551, john smith ,MALE,USA,Houston,Electronics,Headphones,3,433.73,2024-06-19,Bank Transfer,2,0.21,1027.94
+c1331, zain wilson ,Female,UAE,Sharjah,Home & Kitchen,Chair,1,155.18,2025-11-05,Credit Card,1,0.1,139.66
+C1277,Sara Lohano,Female,UAE,Abu Dhabi,Clothing,Hoodie,5,1182.62,2024-08-16,Bank Transfer,2,0.11,5262.66
+C1514,David Malik,Female,USA,Boston,Home & Kitchen,Lamp,2,-20,2024-10-10,Cash,4,0.12,
+c1616,David Ahmed,FEMALE,Pakistan,Jamshoro,Clothing,Jacket,4,1033.41,2025-12-31,PayPal,4,0.22,3224.24
+C1416,Fatima Brown,Male,U.S.A,New York,Clothing,T-Shirt,2,-100,2024-11-28,Cash,2,0.24,
+C1013, emma brown ,Male,Pakistan,Lahore,Sports,Football,1,1100.54,2024-11-03,Bank Transfer,2,1.2,1056.52
+C1304,Ayesha Khan,Female,UAE,Abu Dhabi,Clothing,T-Shirt,4,1496.23,2024-09-22,PayPal,4,0.12,5266.73
+C1522,Fatima Jones,Female,Pakistan,Karachi,Home & Kitchen,Blender,3,1183.79,2024-02-13,PayPal,1,0.06,3338.29
+C1555,John Ahmed,Female,Canada,Ottawa,Clothing,Hoodie,4,514.64,2024-04-25,PayPal,1,0.04,1976.22
+C1470,Zain Patel,Male, CANADA ,Ottawa,Books,ML Book,4,743.83,2024-07-03,CASH,,0.21,2350.5
+C1366,Zain Shah,Female,UAE,Abu Dhabi,CLOTHING,Coffee Maker,1,779.83,2025-01-20,Credit Card,5,0.12,686.25
+C1325,Hamza Ahmed,Male,Pakistan,Islamabad,Home & Kitchen,Blender,5,25000,2025-08-13,paypal,2,0.29,4095.35
+C1261,Ayesha Jones,Female,UAE,Abu Dhabi,home & kitchen,Python Book,5,152.41,2024-05-16,PayPal,1,0.18,624.88
+C1566,John Patel,Female,UAE,Abu Dhabi,Electronics,Smartphone,3,799.12,2024-03-19,Bank Transfer,2,0.23,1845.97
+C1055,Fatima Wilson, Male ,USA,New York,Books,Data Science Book,2,736.45,2024-12-29,Debit Card,3,0.08,1355.07
+C1593,Ahmed Jones,Male,usa,Houston,Electronics,Smartphone,5,609.02,2024-08-19,bank transfer,1,0.22,2375.18
+C1151,Sara Wilson,Male,Invalid, PUNE ,Sports,Football,1,131.02,2025-10-18,paypal,,0.2,104.82
+C1421,Usman Shah,MALE,usa,Houston,Electronics,Tennis Racket,4,11.07,2025-10-15,CASH,4,0.22,34.54
+C1596,David Jones,Male,Canada,Vancouver,Clothing,Shoes,3,$1406.37,,Bank Transfer,4,0.28,3037.76
+C1440,Hamza Patel,Female,India,Pune,Home & Kitchen,Coffee Maker,1,1156.83,2024-06-22,Debit Card,5,0.25,867.62
+C1107,John Patel,Male,Pakistan,Lahore,SPORTS,Hoodie,1,1014.21,2024-10-05,PayPal,4,0.15,862.08
+C1232,Zain Malik,MALE,Canada,Vancouver,Sports,Football,4,,2025-03-11,bank transfer,2,0.09,2999.61
+C1371,Ayesha Ahmed,Female,UK,London,Clothing,Shoes,5,222.64,2025-08-19,Credit Card,5,0.2,890.56
+C1238,Olivia Malik,Female,UAE,Sharjah,Home & Kitchen,Blender,5,602.6,2025-03-15,Credit Card,4,0.08,2771.96
+C1499,Fatima Lohano,Female,India,Delhi,Books,ML Book,1,871.13,2024-08-30, Credit Card ,3,0.12,766.59
+C1025,Ahmed Khan,Female,Canada,Ottawa,Electronics,Laptop,5,327.6,2024-09-28,Credit Card,3,0.26,1212.12
+C1300,Ayesha Smith,female,UAE,Dubai,,Chair,5,$39.88,2025-11-29,Cash,4,0.27,145.56
+c1464,Ayesha Smith,Female,UK,Manchester,BOOKS,Python Book,5,20000,2024-09-07,Bank Transfer,3,0.19,3661.81
+C1327,Usman Wilson,Female,Pakistan,Lahore,Sports,Running Shoes,,1305.43,2024-03-17,PayPal,3,0.07,4856.2
+C1467,Sara Ahmed,Female, Pakistan ,Karachi,Home & Kitchen,Lamp,3,1347.32,2024-03-10,PayPal,5,0.02,3961.12
+C1542,Sara Lohano,Male,USA,Boston,Electronics,Laptop,4,1341.22,2024-12-06,,1,0.09,4882.04
+C1083,Zain Lohano,Male,UK,Birmingham,Clothing,Jeans,4,960.48,,Debit Card,1,0.27,2804.6
+c1564,John Ahmed,Male,Canada, OTTAWA ,Home & Kitchen,Coffee Maker,4,852.71,2024-09-21,PayPal,1,0.11,
+C1358,Ahmed Smith,Female,,Manchester,Home & Kitchen,Coffee Maker,3,1043.25,2024-06-05,Bank Transfer,5,0.11,2785.48
+C1575,Sara Jones,Male,UAE,Dubai,Clothing,Hoodie,4,556.03,2025-08-26,Credit Card,4,0.2,1779.3
+C1381,Ayesha Patel,Male,Canada,Toronto,Books,,5,987.7,2024-10-20,Bank Transfer,1,0.28,3555.72
+C1515,Ali Brown,Female,India,Ahmedabad,Electronics,Keyboard,,919.35,2024-07-01,PayPal,1,0.04,1765.15
+C1102,Emma Brown,Male, India ,Ahmedabad,Electronics,Laptop,1,148.91,2024-04-08,Debit Card,2,0.17,123.6
+C1380,Emma Jones,Male,India,Ahmedabad,Sports,Laptop,2,712.79,2025-09-06,PayPal,1,0.02,1397.07
+ C1077 ,Fatima Patel,female,Canada,Ottawa,Books,Novel,3,1305.71,2025-12-15,Credit Card,5,0.11,3486.25
+C1389,Fatima Patel,Female,India,Pune,Clothing,Jeans,4,$1108.3,2024-08-28,Credit Card,3,0.06,4167.21
+c1407,Hamza Brown,Male,USA,New York,Electronics,Mouse,2,522.39,2025-04-25,credit card,1,0.21,825.38
+C1292,Ali Wilson,Female,Pakistan,Jamshoro,Clothing,Jeans,5,886.02,2024-12-04,Cash,5,0.23,3411.18
+C1283,Ahmed Patel,Female,United Arab Emirates,Dubai,Books,SQL Book,5,1335.73,2024-06-09,Cash,1,0.1,6010.78
+C1554,Ahmed Khan,Female,UK,London,Books,,2,16.4,2025-07-13,Bank Transfer,3,-0.25,26.57
+C1428, sara jones ,Female,UAE,Dubai,Sports,Tennis Racket,4,1056.8,2025-03-13,Cash,2,0.24,3212.67
+C1113,Ahmed Smith,Female,Canada,Vancouver,Sports,Football,4,1307.08,2024-12-13,Credit Card,3,0.23,4025.81
+C1526,Olivia Lohano,Female,Pakistan,Hyderabad,-,Cricket Bat,3,1256.28,2024-08-06,Cash,5,0.05,3580.4
+C1508, olivia jones ,Male,X,Birmingham,ELECTRONICS,Novel,3,226.27,,Cash,3,0.28,488.74
+C1247,Zain Jones,Male,UAE, ABU DHABI ,Home & Kitchen,Blender,2,747.38,2024-04-25,Credit Card,4,0.19,1210.76
+C1146,Usman Smith,Male,India,Delhi,Clothing,Shoes,1,$547.74,2025-09-08,Debit Card,4,0.24,416.28
+C1284,Ayesha Lohano,Female,UAE,Abu Dhabi,Home & Kitchen,Cookware Set,1,,2025-08-08,Bank Transfer,4,0.05,79.76
+C1157,Zain Ahmed,,Canada,Toronto,Electronics,Keyboard,2,1324.86,2025-01-09,PayPal,3,0.01,2623.22
+C1632,Sara Brown,Male,canada,Vancouver,Home & Kitchen,Coffee Maker,1,830.98,2024-02-16,Bank Transfer,1,0.15,706.33
+C1111, emma malik ,Male,UAE,Dubai,Books,Python Book,4,1382.53,2024-11-16,Bank Transfer,4,0.17,4590.0
+C1647,Ahmed Wilson,F,Pakistan,Hyderabad,Clothing,Shoes,3,$1490.56,2024-12-29,Cash,5,0.08,4113.95
+C1091,Fatima Khan,F,Canada,Toronto,Electronics,Keyboard,3,977.37,2024-04-29,Cash,1,,2111.12
+C1206,Emma Khan,Male,UK,London,Electronics,Smartphone,5,1155.82,2025-09-01,PayPal,3,0.01,5721.31
+C1171,Sara Lohano,Female,UK,Birmingham,Clothing,Jacket,3,435.27,2024-03-01,Cash,5,0.07,1214.4
+C1110,Ahmed Khan,,UAE, ABU DHABI ,Clothing,Jeans,4,803.55,2024-08-23,Bank Transfer,5,0.25,2410.65
+C1233,Ali Ahmed,Female,USA,New York,Books,Python Book,2,$322.72,2025-08-25,Debit Card,5,0.19,522.81
+C1057,Ali Malik,male,India,Ahmedabad,Clothing,Jacket,5,$559.84,2025-07-20,paypal,3,0.13,
+C1405,David Patel,FEMALE,UK,Manchester,home & kitchen,Tennis Racket,5,672.82,2025-12-15,Bank Transfer,,0.18,
+C1242,Ahmed Shah,Male,Canada,Ottawa,Books,Python Book,1,1046.44,2024-05-03,PayPal,2,0.14,899.94
+C1088,Sara Malik,Female,USA,Boston,Clothing,Jeans,2,1181.9,2025-01-09,Bank Transfer,5,0.27,1725.57
+C1347,David Khan,male,UAE, ABU DHABI ,Books,SQL Book,5,1,2024-06-09,Cash,,0.11,6135.3
+C1098,Emma Jones,Male,UK,Birmingham,Clothing,Hoodie,1,1093.59,2025-11-05,Bank Transfer,-1,0.14,940.49
+C1582,Fatima Malik,Male,USA,Boston,Books,SQL Book,2,54.29,2024-02-24,Cash,4,0.2,86.86
+c1117,Emma Jones,Male,USA,Boston,Books,Python Book,1,,2024-10-20,Cash,1,0.18,458.72
+C1202,Ahmed Khan,Male,UK, MANCHESTER ,Books,ML Book,4,93.61,2024-01-10,Credit Card,1,0.15,318.27
+C1143,Emma Brown,Male,Pakistan,Karachi,Clothing,Shoes,5,586.61,2025-07-29,Cash,3,0.23,2258.45
+C1324,Zain Ahmed,Female,India,Ahmedabad,Home & Kitchen,Coffee Maker,1,1295.24,2024-05-13,PayPal,4,0.03,
+ C1194 ,Emma Brown,Female,USA,Boston,SPORTS,,4,,2024-11-23,Cash,3,0.09,4167.18
+C1237,Ahmed Malik,Female,Canada,Ottawa,Home & Kitchen,Lamp,4,1425.88,2024-12-01,Bank Transfer,1,0.26,4220.6
+C1444,Ali Brown,Male,UAE,Sharjah,Home & Kitchen,Blender,4,985.59,2024-01-09,paypal,4,0.2,3153.89
+C1214,David Wilson,Male,USA,Houston,Sports,Cricket Bat,4,$478.13,2025-02-11,Debit Card,3,0.22,1491.77
+c1129,Usman Patel,Male,UK, LONDON ,Home & Kitchen,Cookware Set,1,484.84,,PayPal,2,0.04,465.45
+C1621,Sara Patel,Female,India,Ahmedabad,Electronics,Headphones,2,$91.31,2024-07-06,debit card,4,0.08,168.01
+C1534,Hamza Smith,,India,Mumbai,Home & Kitchen,Cookware Set,1,363.31,2025-02-26,Credit Card,4,0.27,265.22
+C1570,Sara Ahmed,Female, India ,Pune,HOME & KITCHEN,Laptop,2,201.78,2025-11-12,Credit Card,2,0.09,367.24
+C1549,Hamza Ahmed,Male,USA,Chicago,Electronics,Laptop,2,1254.07,2025-06-16,Cash,4,0.17,2081.76
+C1543,John Wilson,Male,UAE,Dubai,sports,Tennis Racket,1,$776.96,2025-11-21,Debit Card,1,0.03,753.65
+C1606, david malik ,Male,UK, MANCHESTER ,Electronics,Keyboard,3,458.32,2024-08-29,Debit Card,2,0.26,1017.47
+C1121,Usman Lohano,Female,USA,Chicago,Home & Kitchen,Blender,5,998.78,2024-12-24,Debit Card,4,0.04,4794.14
+C1297,Olivia Jones,Female,India,Mumbai,Clothing,Jeans,2,1257.1,2024-12-09,credit card,4,,2463.92
+unknown,Emma Wilson,Female,Canada,Vancouver,Sports,Football,3,534.46,2025-04-13,Bank Transfer,2,0.24,1218.57
+C1598,Ahmed Smith,Female,USA,Houston,Clothing,Jacket,5,361.83,2024-09-01,Cash,2,0.06,1700.6
+C1391,Emma Ahmed,Female,UK,London,Sports,Tennis Racket,4,340.92,2025-08-13,Credit Card,1,0.16,1145.49
+C1090,Hamza Khan,Female,Canada,Toronto,Books,Data Science Book,3,880.99,2025-10-15,Debit Card,1,0.2,2114.38
+C1359,Emma Lohano,Male,PAKISTAN,Islamabad,Electronics,Jeans,4,422.25,2025-01-03,Credit Card,3,0.26,1249.86
+C1548,Olivia Shah,,India,Delhi,,Football,3,$630.64,2025-11-29,Bank Transfer,2,0.14,1627.05
+C1396,Olivia Shah,Female,Pakistan,Lahore,BOOKS,Novel,2,1493.39,2025-10-07,Bank Transfer,5,0.22,2329.69
+c1427,John Malik,Male,Canada,Toronto,Electronics,Headphones,5,584.14,2024-07-16,Bank Transfer,2,0.17,2424.18
+C1545, ahmed ahmed ,Male,UAE,Dubai,Home & Kitchen,Lamp,3,760.31,2025-03-09,Debit Card,1,0.02,2235.31
+C1379,Zain Patel,Female,U.A.E.,Dubai,Electronics,Headphones,4,1176.83,2024-06-14,Cash,2,0.15,4001.22
+C1579,David Ahmed,Male,UK,Manchester,Sports,Football,1,223.62,2025-02-14,Bank Transfer,1,0.22,174.42
+C1020,Ayesha Shah,Female,UK,Manchester,Clothing,Shoes,1,$255.31,2024-01-03,PayPal,3,0.28,183.82
+c1015,Fatima Malik,Male,India,Mumbai,Home & Kitchen,Blender,5,835.34,2025-08-25,Credit Card,1,0.02,4093.17
+C1253,Emma Jones,Female,India,Pune,Clothing,Jacket,1,40000,2024-01-31,Debit Card,4,0.08,1066.68
+C1510,John Malik,Female,UAE,Sharjah,Books,Novel,2,1104.13,2025-08-25,Bank Transfer,5,0.1,1987.43
+C1329,Fatima Ahmed, Female ,Pakistan,Jamshoro,Electronics,Laptop,4,624.38,2025-07-24,Bank Transfer,1,0.25,1873.14
+C1121,Usman Lohano,Female,USA,Chicago,Home & Kitchen,Blender,5,998.78,2024-12-24,Debit Card,4,0.04,4794.14
+C1333,Ayesha Malik,Female,India,Ahmedabad,Clothing,Jacket,1,1138.15,2024-02-17,Bank Transfer,1,0.23,876.38
+C1286,Fatima Malik,Female,UK,Manchester,Books,Data Science Book,1,966.38,2025-01-31,Credit Card,3,0.27,705.46
+C1334,Fatima Ahmed,Male,UK, LONDON ,Sports,Football,5,1403.61,2025-08-22,PayPal,5,0.23,5403.9
+C1043,Ayesha Brown,Female,Pakistan,Islamabad,Clothing,Jacket,3,12000,2025-07-07, Credit Card ,2,0.05,1386.15
+C1197,Emma Shah,Male,United Arab Emirates, SHARJAH ,Books,SQL Book,5,$1485.58,2024-03-01,bank transfer,1,0.25,5570.92
+C1346,Hamza Malik,Female,India,Delhi,sports,Lamp,3,447.43,2025-09-25,Bank Transfer,4,0.3,939.6
+C1034,John Shah,Female,Pakistan,Karachi,Sports,,3,1095.53,2024-11-17,Debit Card,5,0.3,2300.61
+C1251,Ayesha Shah,Female,UK,Birmingham,Electronics,Smartphone,-2,1097.64,2024-09-01,Cash,2,0.03,4258.84
+C1228,Hamza Wilson,Male,Canada,Vancouver,Books,SQL Book,4,956.9,2025-12-11,Credit Card,5,0.05,3636.22
+C1453,Zain Wilson,Female,Canada,Ottawa,Sports,Cricket Bat,5,355.95,2025-12-04,Cash,3,0.02,1744.15
+ C1492 ,Zain Lohano,Female,UK,Birmingham,Electronics,Laptop,2,1227.38,2025-08-17,Cash,2,0.2,1963.81
+C1552,John Shah,Male,U.A.E.,Sharjah,Clothing,Jeans,2,184.21,2024-11-20,Bank Transfer,,0.13,320.53
+C1413,Fatima Patel,Female,UAE, DUBAI ,Home & Kitchen,Blender,2,93.5,2025-02-05,credit card,5,0.14,160.82
+C1486,Olivia Ahmed,Male,UK,Manchester,Books,Novel,2,$1421.7,2024-05-27,Bank Transfer,3,0.27,2075.68
+C1431,Fatima Lohano,Male,UAE,Dubai,Home & Kitchen,Coffee Maker,1,781.24,2024-11-05,Cash,3,0.3,546.87
+C1532,David Khan,,UAE, ABU DHABI ,Home & Kitchen,Cookware Set,4,384.56,2025-09-23,PayPal,1,0.03,1492.09
+C1525,Zain Malik,Male, Pakistan ,Jamshoro,Sports,Yoga Mat,2,$104.03,2024-07-26,PayPal,3,0.24,158.13
+C1501,Usman Brown,Female,Canada, TORONTO ,Sports,Yoga Mat,1,375.39,2025-10-07,Cash,5,0.24,285.3
+C1291,David Shah,Female,USA,New York,Electronics,Keyboard,5,602.06,2024-11-29,Debit Card,5,0.14,2588.86
+C1478,Ahmed Patel,Male,India,Mumbai,home & kitchen,ML Book,1,1200.55,2025-05-27,Credit Card,2,0.1,1080.49
+C1311,Fatima Lohano, Male ,Pakistan,Hyderabad,Clothing,Jacket,1,1339.09,2025-06-27,Credit Card,1,0.2,1071.27
+C1017,Olivia Wilson,Female,India,Ahmedabad,Books,SQL Book,1,154.43,2025-03-17,Debit Card,4,0.12,135.9
+C1159,Ahmed Shah,FEMALE,UK,Manchester,Home & Kitchen,Coffee Maker,3,1134.9,2024-07-22,Bank Transfer,5,0.12,-1000.0
+C1244,David Shah,Male, CANADA ,Ottawa,Electronics,Mouse,2,$665.75,2024-08-06,Credit Card,4,0.18,1091.83
+C1067,John Wilson,Female,UK,London,Books,Data Science Book,4,1414.59,2025-05-27,paypal,4,0.13,4922.77
+ C1147 ,Usman Shah,Male,Pakistan,Islamabad,Books,Novel,5,622.08,2025-02-23,Bank Transfer,1,0.04,2985.98
+C1422, ali wilson ,Female,Canada,Toronto,Home & Kitchen,Blender,5,1230.38,2024-07-13,debit card,4,0.23,4736.96
+C1360,Fatima Ahmed,Female,USA,Boston,Sports,Football,2,971.87,2024-03-24,Debit Card,2,0.27,1418.93
+c1636,Ali Khan,Female,Pakistan,Karachi,Clothing,Shoes,4,1040.79,2025-11-04,Bank Transfer,4,0.09,3788.48
+C1120,Sara Patel,Female,USA,Boston,Books,Data Science Book,5,88.02,2025-10-08,Debit Card,1,0.1,396.09
+C1505,John Brown,,UAE,Dubai,Sports,Cricket Bat,5,1111.06,2025-11-05,PayPal,3,0.24,4222.03
+C1473, ahmed patel ,Female,U.K.,Birmingham,Sports,Yoga Mat,1,1249.74,2024-07-17,Debit Card,3,0.28,899.81
+C1141,Olivia Shah,Male,India,Ahmedabad,Electronics,Headphones,1,$361.63,2025-10-22,Debit Card,3,0.11,
+ C1066 ,David Wilson,M,uk,London,Sports,Cricket Bat,2,1363.53,2024-05-25,debit card,1,0.05,2590.71
+C1239, john patel ,Male,Canada,Vancouver,Home & Kitchen,Blender,1,158.37,2025-04-15,Cash,1,0.28,114.03
+C1010,David Lohano,Male,UK,Manchester,Sports,Running Shoes,5,384.61,2025-07-20,cash,1,0.2,1538.44
+C1443,Usman Jones,Female,Canada,Vancouver,electronics,Cricket Bat,1,571.14,2025-11-10,Bank Transfer,1,0.08,525.45
+C1584, ayesha brown ,Female,UK, BIRMINGHAM ,Home & Kitchen,Coffee Maker,3,1216.13,2025-07-07,Bank Transfer,1,0.29,2590.36
+C1409,Usman Lohano,Female,India,Delhi,Books,Novel,2,401.84,2025-03-08,Credit Card,5,0.23,618.83
+C1583,Sara Lohano,Female,India,Pune,Sports,Yoga Mat,1,1142.66,2025-07-11,Bank Transfer,4,0.24,868.42
+C1433,Emma Shah,Male,USA,Houston,home & kitchen,Cricket Bat,2,391.8,2024-11-03,Cash,5,0.12,689.57
+C1432,Ayesha Patel,female,UAE,Abu Dhabi,Sports,Yoga Mat,5,860.3,2025-08-08,Credit Card,1,0.01,4258.48
+C1485,Zain Ahmed,Female,USA,Houston,Clothing,Hoodie,1,$1460.79,2025-04-21,Bank Transfer,,0.03,1416.97
+C1152, zain lohano ,Male,UK,Birmingham,unknown,Tennis Racket,,729.59,2025-12-02,PayPal,3,0.14,1882.34
+C1328,John Khan,Male,Canada, OTTAWA ,Books,Novel,2,127.46,2025-03-30,Bank Transfer,4,0.03,247.27
+c1257,David Khan,Male,India,Mumbai,Books,Python Book,-4,1300.39,2024-11-14,Debit Card,1,0.17,4317.29
+C1312,David Smith,Male,UAE,Abu Dhabi,Home & Kitchen,Cookware Set,1,,2025-08-25,Debit Card,2,0.02,569.86
+C1305,Ali Wilson,Male,USA,Chicago,Sports,Running Shoes,3,765.9,2024-06-23,Bank Transfer,2,0.09,2090.91
+C1414,Ayesha Brown,Female,Pakistan,Karachi,Clothing,Shoes,4,378.27,2024-02-04,Credit Card,4,0.22,1180.2
+C1134,Fatima Khan,Female,USA,Houston,Electronics,Smartphone,1,523.76,2025-11-03,Cash,5,0.22,408.53
+C1032,Olivia Malik,MALE,Pakistan,,Clothing,Jeans,4,530.99,2024-08-21,Credit Card,1,0.2,1699.17
+C1459,,Male,UK,Birmingham,Books,Python Book,5,178.63,2025-08-22,Bank Transfer,2,0.12,785.97
+C1162,John Ahmed,Male,USA,Houston,Electronics,Keyboard,5,468.44,2025-12-05,Cash,5,0.14,2014.29
+C1340,Ali Brown,Male, CANADA ,Toronto,Home & Kitchen,Chair,1,928.0,2025-11-22,Bank Transfer,2,0.22,723.84
+C1287,Emma Shah,Female,,Islamabad,Books,Novel,3,347.1,2024-10-02,Bank Transfer,1,0.05,989.24
+C1249,Ahmed Khan,Male,Pakistan,Islamabad,Clothing,T-Shirt,1,1423.53,2025-11-02,Bank Transfer,3,0.19,1153.06
+C1626, john wilson ,Male,USA,New York,Sports,Running Shoes,3,1421.65,2025-08-05,debit card,2,0.26,3156.06
+C1558,Fatima Patel,Male,UAE,Abu Dhabi,Books,SQL Book,4,560.75,2025-01-16,Cash,3,0.1,2018.7
+c1002,Ali Khan,Male, India , DELHI ,Sports,Yoga Mat,1,,2025-10-27,Bank Transfer,4,0.07,787.02
+C1208,John Smith,Male, Pakistan ,Islamabad,Clothing,Shoes,2,1112.09,2024-11-20,Debit Card,1,0.03,2157.45
+C1622,Olivia Ahmed,Female,Pakistan,Jamshoro,Electronics,Keyboard,3,1483.34,2025-07-28,PayPal,4,0.15,3782.52
+C1573,Ayesha Wilson,Male,India,Pune,Electronics,Laptop,2,1270.33,2024-10-11,Bank Transfer,3,0.11,2261.19
+C1265,Emma Shah,M,UAE,Dubai,electronics,Chair,5,0,2024-02-11,Cash,2,0.01,
+C1275,Ayesha Khan,Female,Pakistan,Islamabad,Sports,Cricket Bat,2,517.73,2024-06-30,Debit Card,1,0.01,1025.11
+C1071, usman khan ,Female,Pakistan, ISLAMABAD ,CLOTHING,Lamp,1,1455.58,2025-02-17,bank transfer,1,0.2,1164.46
+C1445,David Patel,Male,Pakistan, ISLAMABAD ,Books,SQL Book,4,$767.73,2025-12-27,Bank Transfer,3,0.15,2610.28
+C1585,Ali Lohano,Male,UK,Manchester,Home & Kitchen,Chair,4,694.89,2024-02-03,Credit Card,5,0.2,2223.65
+C1099,Ali Khan,Female,UK,Manchester,Electronics,Keyboard,0,119.5,2024-03-23,Debit Card,5,0.04,458.88
+C1578,Olivia Brown,,india,,Home & Kitchen,Chair,2,1286.59,2025-02-05,PayPal,2,0.0,2573.18
+C1022,Ali Patel,Male, Pakistan ,Hyderabad,Books,ML Book,5,$244.57,2025-06-04,Cash,2,0.02,1198.39
+C1415,Ahmed Jones,Male,UK,Manchester,Home & Kitchen,Lamp,2,947.45,2024-02-13,debit card,5,0.04,1819.1
+C1518,Fatima Ahmed,male,UK,Birmingham,Electronics,Mouse,2,14.93,2025-12-06,PayPal,1,0.17,24.78
+C1150,Usman Brown,Male,USA,,Sports,Tennis Racket,-1,941.28,2025-09-21,Bank Transfer,1,0.15,1600.18
+C1355,Usman Jones,Male,USA,Chicago,Home & Kitchen,Cookware Set,4,1359.39,2025-06-08,Credit Card,2,0.06,5111.31
+C1635,David Ahmed,Female,USA,Chicago,Clothing,Jeans,1,1123.07,2025-09-10,credit card,1,0.13,977.07
+C1053, hamza ahmed ,Male,UK,Manchester,Books,SQL Book,4,272.44,2025-06-18,Debit Card,5,0.24,828.22
+C1199,David Wilson,Female,U.A.E.,Abu Dhabi,Electronics,Laptop,5,$831.95,2024-01-13,,5,0.22,3244.61
+C1123, emma brown ,Male,India,Pune,sports,SQL Book,2,$1499.97,2024-06-07,Cash,3,0.25,2249.95
+C1204, zain khan ,Male,USA,New York,Clothing,Hoodie,2,1130.86,2025-12-30,PayPal,1,0.09,2058.17
+C1068,Zain Khan,Female,UAE,Abu Dhabi,Sports,Tennis Racket,1,146.08,2025-11-21,Bank Transfer,5,0.29,103.72
+C1224,David Lohano,Female,Pakistan,Hyderabad,Clothing,Shoes,5,650.03,2024-05-01,Credit Card,-2,,2990.14
+C1128,Sara Brown,Female,Canada,Toronto,Books,Python Book,2,1226.89,2024-12-23,CASH,4,0.02,2404.7
+C1140, emma ahmed ,Male,UAE,Abu Dhabi,clothing,Running Shoes,3,962.81,2024-02-28,Cash,4,0.11,2570.7
+C1418,,Female,U.A.E.,,Electronics,Smartphone,2,-40,2024-04-19,Credit Card,4,0.07,1962.26
+C1219,David Lohano,Female,UK,London,Electronics,Laptop,3,340.78,2025-06-15,Bank Transfer,5,0.21,807.65
+C1547,David Malik,Male,UK, LONDON ,Electronics,Keyboard,2,439.68,2024-03-19, Credit Card ,2,0.08,809.01
+C1158,Ali Wilson,Male,U.S.A,Houston,Electronics,Keyboard,5,$681.03,2025-07-17,Debit Card,5,0.2,2724.12
+C1095, ayesha wilson ,Male,Pakistan,,Clothing,Jeans,5,315.76,2025-07-21,Credit Card,5,0.06,1484.07
+C1256,Ali Jones,Female,India,Pune,Clothing,Shoes,3,414.17,2024-03-20,Bank Transfer,3,0.04,1192.81
+C1040,Ahmed Ahmed, Male ,UAE, SHARJAH ,Clothing,Shoes,4,605.48,2024-05-31,Cash,1,0.23,1864.88
+C1131,Usman Wilson,Female,Pakistan, ISLAMABAD ,Clothing,Jacket,1,81.15,2025-03-05,Bank Transfer,4,0.02,79.53
+C1132,Fatima Wilson,,UAE,Sharjah,books,Cricket Bat,2,444.0,2024-01-02,Bank Transfer,3,0.07,825.84
+C1190,,Male,India,Pune,Clothing,,1,847.96,2025-02-03,Bank Transfer,5,0.04,814.04
+C1403,Hamza Malik,Male,Pakistan,Jamshoro,Sports,Football,1,1158.69,2025-06-20,Cash,1,0.08,1065.99
+C1039,David Wilson,Female,Malee,Lahore,Home & Kitchen,Cookware Set,2,229.56,2024-02-17,Credit Card,4,0.18,376.48
+C1243,Ayesha Lohano,Male,UAE, DUBAI ,Electronics,Smartphone,3,$1322.67,2024-05-20,PayPal,8,0.19,3214.09
+C1354,Usman Brown,Male,United States,Houston,Electronics,,5,220.65,2024-02-12,Cash,5,0.18,904.67
+C1535, ahmed ahmed ,male,Pakistan,Jamshoro,Clothing,Jeans,5,687.94,2025-01-31,Debit Card,2,0.14,2958.14
+C1504,David Brown,Male,USA,Boston,Electronics,Headphones,5,124.52,2024-10-11,Debit Card,2,0.18,510.53
+C1160,Ali Khan,Male,india,Pune,Books,ML Book,4,231.92,2025-06-11,Credit Card,3,0.28,667.93
+C1395,Sara Wilson,Male,Canada,Ottawa,Clothing,T-Shirt,3,1208.09,2025-07-22,PayPal,4,0.06,3406.81
+C1538, fatima smith ,Female,uk,Manchester,Electronics,Keyboard,2,379.27,2025-03-20,Bank Transfer,2,0.27,553.73
+C1241, emma shah ,Male,UK,Birmingham,Home & Kitchen,Cookware Set,4,$986.67,2025-12-21,Cash,1,0.06,3709.88
+C1014,Fatima Jones,Male,USA,Boston,Clothing,Hoodie,2,1072.29,2025-02-12,Debit Card,4,0.27,1565.54
+C1476,Sara Brown,Male,USA,Boston,Sports,Cricket Bat,5,912.48,2024-10-07,CASH,1,0.26,3376.18
+C1589, hamza patel ,Female,UK,Manchester,Electronics,Headphones,2,359.59,2024-11-15,Bank Transfer,1,0.27,525.0
+C1315,Sara Malik,Female,UAE,Sharjah,Electronics,Keyboard,3,,2025-09-30,Cash,5,0.3,2434.24
+C1362,Ali Jones,Female,Canada,Ottawa,Books,SQL Book,3,$594.82,2025-08-26,Debit Card,2,,1534.64
+C1321,Ahmed Shah,USAa,USA,Houston,Home & Kitchen,,1,151.55,2024-02-16,debit card,2,0.2,121.24
+C1565, olivia wilson ,Male,Pak,Chicago,Sports,Football,2,486.32,2025-12-10,bank transfer,3,0.05,924.01
+C1356,Zain Brown,Male,Pakistan,Lahore,Sports,Football,5,697.29,2025-07-16,Cash,3,0.2,2789.16
+C1035,Ahmed Lohano,Male,USA,New York,,Python Book,5,$1389.11,2025-07-05,Credit Card,3,0.13,6042.63
+C1335,Sara Wilson,Male,UAE,Dubai,Electronics,Keyboard,5,913.18,2024-11-25,Bank Transfer,4,0.13,3972.33
+C1377,Emma Lohano,Female,Pakistan,Lahore,Books,ML Book,3,399.34,2025-07-02,PayPal,5,0.11,1066.24
+C1185,John Ahmed,Female,Canada,Vancouver,Clothing,Jeans,4,525.78,2024-10-09,Credit Card,,0.01,2082.09
+C1424,Ali Smith,Male,UK,London,Electronics,Laptop,5,$966.21,2025-02-01,PayPal,5,0.19,3913.15
+C1326,David Patel,Male,UK,Birmingham,Clothing,Shoes,3,998.93,2025-10-18,PayPal,2,0.25,2247.59
+C1188,David Patel,Male,USA,Chicago,Sports,Cricket Bat,4,457.75,2024-03-03,Bank Transfer,5,0.26,1354.94
+C1285, emma khan ,Female,Pakistan,Islamabad,Sports,,2,$154.51,2024-07-30,Credit Card,3,0.29,219.4
+C1392,Hamza Ahmed,Male,Canada,Vancouver,N/A,SQL Book,4,1465.0,2025-12-16,CASH,4,0.09,5332.6
+,Usman Khan,FEMALE,USA,Houston,Home & Kitchen,Cookware Set,2,1243.64,2025-05-30,Cash,1,0.1,2238.55
+C1166,Sara Ahmed,FEMALE,Canada,Vancouver,Home & Kitchen,Coffee Maker,4,296.47,2024-09-09,Debit Card,5,0.09,1079.15
+C1348, ahmed lohano ,Female,Canada,Ottawa,Home & Kitchen,Blender,5,1234.94,2025-01-18,Bank Transfer,5,0.13,5371.99
+c1299,Sara Ahmed,Female,USA,Chicago,Home & Kitchen,Blender,3,50.9,2024-02-20,,5,0.23,117.58
+C1536,Ayesha Patel,Female,India,Pune,Clothing,T-Shirt,5,98.88,2024-05-19,Cash,4,0.14,425.18
+C1230,Usman Jones,Female,UK,Birmingham,Books,Novel,4,738.16,2024-03-25,Bank Transfer,1,0.24,2244.01
+C1042,Fatima Wilson,female,Canada,Vancouver,Clothing,Shoes,4,396.2,2024-09-10,Debit Card,5,0.15,1347.08
+C1588,John Patel,Male,Pakistan,Hyderabad,Electronics,Headphones,3,-25,2025-08-20,Cash,3,0.11,1414.65
+C1544,Emma Ahmed,Male,usa,Houston,Clothing,Hoodie,1,845.53,2024-07-28,Cash,3,0.07,786.34
+C1447,John Patel,female,UK,Birmingham,Clothing,T-Shirt,3,1029.62,2024-12-29,Debit Card,2,0.3,2162.2
+C1448,Usman Brown,male,UAE,Abu Dhabi,Books,Python Book,5,1424.18,2024-08-18,Credit Card,3,0.27,5198.26
+C1350,Ayesha Lohano,Male,India,Ahmedabad,Electronics,Headphones,1,694.25,2024-05-12,bank transfer,1,0.02,680.37
+C1046,Ayesha Ahmed,Male,USA,Boston,Books,Python Book,4,510.83,2025-11-26,PayPal,2,0.25,1532.49
+C1109,John Khan,Male,UK,Birmingham,Electronics,Laptop,2,459.11,2024-08-04,Cash,3,0.09,835.58
+C1030,Sara Khan,Female,USA,New York,Home & Kitchen,Cookware Set,,1003.73,2024-12-28,paypal,4,0.29,1425.3
+C1182,John Khan,female,,New York,clothing,Hoodie,1,77.48,2024-12-18,Cash,5,0.3,54.24
+C1420,Usman Brown,Female,India,Delhi,Sports,Tennis Racket,3,1101.28,2024-10-08,Bank Transfer,5,0.05,3138.65
+C1105,Hamza Jones,Male,Canada,Ottawa,Home & Kitchen,,2,417.17,2024-11-12,Debit Card,3,0.0,834.34
+C1061,Fatima Malik,Male,Canada,Vancouver, Electronics ,Novel,4,517.65,2024-02-22,Debit Card,4,0.03,999999.0
+C1084,Fatima Brown,Male,Pakistan,Jamshoro,Home & Kitchen,Coffee Maker,3,,2025-03-10,Debit Card,4,0.25,2164.55
+c1491, zain ahmed ,FEMALE,Canada,Toronto,Books,SQL Book,3,1434.27,2024-03-12,Bank Transfer,1,0.21,3399.22
+C1316,David Malik,Male,Pakistan,Karachi,Books,Novel,4,194.16,2024-09-15,PayPal,2,0.06,730.04
+C1451,Usman Shah,FEMALE,India,Delhi,Home & Kitchen,Blender,5,804.11,2024-05-01,Credit Card,3,-0.1,3015.41
+C1382,Sara Ahmed,Female,Pakistan,Lahore,Sports,Tennis Racket,,60.08,2025-09-05,Bank Transfer,5,0.21,94.93
+C1423,Sara Wilson,Female,Other,Boston,Home & Kitchen,Blender,-1,789.57,2024-03-09,Cash,2,0.05,750.09
+C1497,Emma Lohano,Male,U.S.A,Chicago,Clothing,T-Shirt,1,976.1,2024-05-27,PayPal,4,0.29,693.03
+C1638,David Shah, Male ,,Birmingham,Home & Kitchen,Cricket Bat,1,458.37,2025-04-19,Credit Card,4,0.13,398.78
+c1524,Fatima Wilson,Female,India,Delhi,Electronics,Headphones,1,1357.95,2024-04-09,PayPal,5,0.05,1290.05
+C1446,Zain Jones,Male,India,Delhi,Sports,Running Shoes,5,1390.26,2024-01-23,Cash,2,0.28,500000.0
+C1001,David Malik,Male,UAE,Abu Dhabi,Clothing,Jeans,2,1107.34,2025-11-23,debit card,1,0.18,1816.04
+C1163,David Wilson,Male,UAE,Dubai,Sports,Running Shoes,2,791.11,2025-09-26,PayPal,2,0.25,1186.66
+C1458,David Khan,Male,USA,Boston,Books,Data Science Book,3,697.41,2025-03-08,Debit Card,5,0.28,1506.41
+C1489,Zain Lohano,Male,Canada,Toronto,Sports,Cricket Bat,4,581.89,2024-12-14,Credit Card,5,,2024.98
+C1089,Sara Brown,Female,USA,Houston,Electronics,Keyboard,1,219.73,2024-08-19,PayPal,5,,195.56
+C1484,Ali Shah,Male,UK,Birmingham,Books,Laptop,4,90.16,2025-03-12,PayPal,2,0.21,284.91
+ C1461 ,Olivia Ahmed,Female,Pakistan,Hyderabad,Books,ML Book,5,1425.13,2025-01-22,Bank Transfer,4,0.01,7054.39
+c1078,Hamza Khan,Female,UAE,Abu Dhabi,Books,Novel,2,$748.04,2024-02-07,cash,5,0.29,1062.22
+C1269,Sara Brown, Female ,UK,London,Electronics,Mouse,5,929.3,2025-10-24,Debit Card,4,0.12,4088.92
+C1124,Ahmed Jones,Male,,Abu Dhabi,Sports,Cricket Bat,5,$571.31,2024-06-15,Credit Card,5,0.24,2170.98
+C1298,Emma Smith,Female,USA,Boston,Sports,Running Shoes,1,1024.95,2024-09-04,debit card,4,0.18,840.46
+C1096, ayesha patel ,Male,Canada,Toronto,Home & Kitchen,Cookware Set,2,814.92,2024-06-27,Cash,1,0.04,1564.65
+C1012,Ahmed Brown,Male,india,Pune,Clothing,Hoodie,5,1378.56,2025-09-05,,4,0.01,6823.87
+C1115,John Smith,Male,Canada,Toronto,Electronics,Headphones,4,701.29,2025-07-31,None,4,0.2,2244.13
+C1429,Usman Lohano,male,UAE,Dubai,,Yoga Mat,4,$1400.94,2024-11-18,Bank Transfer,3,0.25,4202.82
+C1258, ali patel ,male,U.S.A,Houston,,Cricket Bat,4,558.73,2025-05-20,,5,0.23,1720.89
+C1353,David Brown,Male,USA,Boston,Books,Novel,1,716.24,2025-06-30,Credit Card,2,0.22,558.67
+C1532,David Khan,,UAE, ABU DHABI ,Home & Kitchen,Cookware Set,4,384.56,2025-09-23,PayPal,1,0.03,1492.09
+C1170,Usman Smith,Male,Pakistan,Karachi,Books,Data Science Book,4,159.81,2024-05-20,Cash,,0.29,-75.0
+C1240,Sara Ahmed,Female,, JAMSHORO ,Books,Jeans,3,$246.88,2024-10-07,debit card,,0.08,681.39
+ C1278 ,Olivia Brown, Male ,India,Mumbai, Electronics ,Running Shoes,5,58.25,2025-09-08,Debit Card,5,0.07,270.86
+c1161,Emma Shah,Female,Canada,Ottawa,Home & Kitchen,Coffee Maker,3,,2025-06-05,Bank Transfer,4,0.21,1815.18
+C1074,Ali Jones,Female, Pakistan ,Lahore,home & kitchen,Keyboard,,975.09,2024-06-06,PayPal,3,0.15,828.83
+C1530, olivia ahmed , Male ,UAE,Abu Dhabi,Home & Kitchen,Chair,1,840.99,2024-07-15,Cash,5,0.29,597.1
+C1063,Hamza Wilson,Male,Canada, VANCOUVER ,Books,Novel,3,1291.65,2025-03-15,Debit Card,5,,3138.71
+C1493,Fatima Jones,Female,UK, BIRMINGHAM ,Sports,Running Shoes,2,316.44,2024-11-20,Debit Card,5,0.24,480.99
+C1048,Hamza Patel,Male,UK,Manchester,Home & Kitchen,Chair,0,1130.49,2025-03-07,cash,1,0.14,2916.66
+C1592,Fatima Malik,Male,USA,Boston,Sports,Tennis Racket,2,$926.09,2025-01-07,PayPal,2,0.15,1574.35
+C1627,David Brown,,Pakistan, KARACHI ,Sports,Yoga Mat,4,147.9,2024-09-18,Credit Card,2,0.29,420.04
+c1506,John Smith,Female,India,Mumbai,Home & Kitchen,Blender,2,897.36,2024-06-06,PayPal,4,0.23,1381.93
+ C1021 ,,Female,United Arab Emirates,Sharjah,Sports,Running Shoes,2,292.95,2024-08-10,Cash,5,0.22,457.0
+C1425,Zain Brown,Male,USA,Chicago,Sports,Football,1,1396.01,2024-08-01,PayPal,1,0.14,1200.57
+C1044,Hamza Shah,Male,PAKISTAN,Jamshoro,Books,Data Science Book,5,704.23,2024-03-04,Credit Card,4,0.12,3098.61
+C1193,Ayesha Malik,Female,India,Delhi,Books,SQL Book,5,489.21,2024-10-16,PayPal,4,0.16,2054.68
+C1643,Ali Shah,Female,UAE,Dubai,Books,Data Science Book,4,-75,2024-08-12,Bank Transfer,3,0.28,1024.79
+c1216,Sara Jones,Male,UAE,Abu Dhabi,Clothing,Shoes,3,1248.61,2024-11-03,PayPal,4,0.04,3596.0
+C1245, fatima smith ,, Pakistan ,Lahore,Electronics,Mouse,4,533.79,2025-03-15,Debit Card,2,0.07,1985.7
+C1364,,F,USA,New York,Clothing,Shoes,2,103.66,2025-01-13,Credit Card,1,0.2,165.86
+c1060,Sara Brown,,UAE, SHARJAH ,Clothing,Jacket,1,1461.7,2025-07-20,Debit Card,2,0.19,1183.98
+C1222,Olivia Ahmed,Female,,Islamabad,Electronics,Laptop,1,1275.28,2025-10-25,Cash,2,0.28,918.2
+C1177,Olivia Smith,F,UAE,Dubai,HOME & KITCHEN,Data Science Book,2,614.07,2025-05-29,Debit Card,,0.19,994.79
+C1450, zain patel ,,Canada,Toronto,Clothing,Jeans,5,816.62,2024-07-26,Credit Card,3,0.21,3225.65
+C1056,Zain Brown,Male,Canada,Toronto,Electronics,Headphones,4,737.98,2024-09-03,PayPal,4,0.13,2568.17
+C1255,Ahmed Wilson,Male,India,Mumbai,Electronics,Laptop,2,78.51,2025-01-07,debit card,2,0.05,149.17
+C1386,John Patel,Male,Canada, VANCOUVER ,Sports,Yoga Mat,3,$1044.35,2025-01-21,Bank Transfer,4,1.1,2412.45
+C1198,Ahmed Khan,Male,UK,London,Home & Kitchen,T-Shirt,2,23.62,2025-06-01,PayPal,3,0.02,46.3
+C1069,David Brown,Male,India,Ahmedabad,Sports,Running Shoes,3,280.42,2025-08-22,PayPal,4,0.29,597.29
+C1169, olivia ahmed ,Male,India,Pune,Sports,Tennis Racket,2,172.75,2025-08-23,Credit Card,2,0.02,338.59
+C1186,David Lohano,Male,india,Delhi,ELECTRONICS,Laptop,5,60.03,2025-09-04,Cash,2,0.22,234.12
+C1036,David Patel,Female,UAE,Dubai,Home & Kitchen,Coffee Maker,3,1003.67,2024-11-30,Debit Card,3,0.17,2499.14
+C1642,Emma Jones,Male,USA,Boston,Books,Python Book,4,937.82,2025-10-23,Debit Card,4,0.21,2963.51
